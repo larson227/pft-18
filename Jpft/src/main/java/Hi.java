@@ -1,6 +1,18 @@
 public class Hi {
     public static void main(String[] args) {
-        System.out.println("hi");
-        System.out.println("second hi");
+        Square s = new Square(5);
+        Rectangle r = new Rectangle();
+        r.setA(4);
+        r.setB(5);
+
+        System.out.println("Sqare " + area(s));
+        System.out.println("Rectangle " + area(r));
+
+    }
+    public static double area(Square s){
+        return s.a * s.a;
+    }
+    public static double area(Rectangle r){
+        return r.getA() * r.getB();
     }
 }
