@@ -3,7 +3,18 @@
   <component name="ChangeListManager">
     <list default="true" id="0ff9f87b-4b41-49a9-b6f9-d9f48e4ff15e" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/../JavaFT/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../JavaFT/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/src/test/java/ru/stqa/pft/addressbook/GroupCreation.java" afterPath="$PROJECT_DIR$/../addressbook-web-tests/src/test/java/ru/stqa/pft/addressbook/GroupCreation.java" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.lock" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/addressbook-web-tests/.gradle/buildOutputCleanup/cache.properties" afterPath="$PROJECT_DIR$/addressbook-web-tests/.gradle/buildOutputCleanup/cache.properties" />
+      <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/out/test/classes/ru/stqa/pft/addressbook/GroupCreation.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/out/test/classes/ru/stqa/pft/addressbook/GroupData.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/out/test/classes/ru/stqa/pft/addressbook/GroupDeletionTest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/out/test/classes/ru/stqa/pft/addressbook/TestBase.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/src/test/java/ru/stqa/pft/addressbook/GroupCreation.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/src/test/java/ru/stqa/pft/addressbook/GroupData.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/src/test/java/ru/stqa/pft/addressbook/GroupDeletionTest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../addressbook-web-tests/src/test/java/ru/stqa/pft/addressbook/TestBase.java" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -101,14 +112,14 @@
     <option name="myGradleHomes">
       <map>
         <entry key="$PROJECT_DIR$" value="C:\Users\Larson\.gradle\wrapper\dists\gradle-4.0-bin\3p92xsbhik5vmig8i90n16yxc\gradle-4.0" />
-        <entry key="$PROJECT_DIR$/addressbook-web-tests" value="/opt/gradle/gradle-3.4.1" />
+        <entry key="$PROJECT_DIR$/addressbook-web-tests" value="C:\Users\Larson\.gradle\wrapper\dists\gradle-4.0-all\ac27o8rbd0ic8ih41or9l32mv\gradle-4.0" />
         <entry key="$PROJECT_DIR$/../addressbook-web-tests/gradle" value="C:\Users\Larson\.gradle\wrapper\dists\gradle-4.0-bin\3p92xsbhik5vmig8i90n16yxc\gradle-4.0" />
       </map>
     </option>
     <option name="myGradleVersions">
       <map>
         <entry key="$PROJECT_DIR$" value="4.0" />
-        <entry key="$PROJECT_DIR$/addressbook-web-tests" value="3.4.1" />
+        <entry key="$PROJECT_DIR$/addressbook-web-tests" value="4.0" />
         <entry key="$PROJECT_DIR$/../addressbook-web-tests/gradle" value="4.0" />
       </map>
     </option>
@@ -341,7 +352,7 @@
                 <option name="name" value="buildEnvironment" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Generates Gradle wrapper files. [incubating]" />
+                <option name="description" value="Generates Gradle wrapper files." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/addressbook-web-tests" />
                 <option name="name" value="wrapper" />
               </ExternalTaskPojo>
@@ -376,7 +387,7 @@
                 <option name="name" value="tasks" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Initializes a new Gradle build. [incubating]" />
+                <option name="description" value="Initializes a new Gradle build." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/addressbook-web-tests" />
                 <option name="name" value="init" />
               </ExternalTaskPojo>
@@ -778,75 +789,6 @@
               <option name="name" value="addressbook-web-tests" />
               <option name="projectBuildClasspath">
                 <list>
-                  <option value="/opt/gradle/gradle-3.4.1/lib/gradle-model-groovy-3.4.1.jar" />
-                  <option value="/opt/gradle/gradle-3.4.1/lib/gradle-base-services-3.4.1.jar" />
-                  <option value="/opt/gradle/gradle-3.4.1/lib/gradle-base-services-groovy-3.4.1.jar" />
-                  <option value="/opt/gradle/gradle-3.4.1/lib/ant-launcher-1.9.6.jar" />
-                  <option value="/opt/gradle/gradle-3.4.1/lib/gradle-resources-3.4.1.jar" />
-                  <option value="/opt/gradle/gradle-3.4.1/lib/gradle-messaging-3.4.1.jar" />
-                  <option value="/opt/gradle/gradle-3.4.1/lib/gradle-wrapper-3.4.1.jar" />
-                  <option value="/opt/gradle/gradle-3.4.1/lib/gradle-docs-3.4.1.jar" />
-                  <option value="/opt/gradle/gradle-3.4.1/lib/gradle-script-kotlin-0.5.1.jar" />
-                  <option value="/opt/gradle/gradle-3.4.1/lib/gradle-tooling-api-3.4.1.jar" />
-                  <option value="/opt/gradle/gradle-3.4.1/lib/gradle-installation-beacon-3.4.1.jar" />
-                  <option value="/opt/gradle/gradle-3.4.1/lib/gradle-process-services-3.4.1.jar" />
-                  <option value="/opt/gradle/gradle-3.4.1/lib/gradle-cli-3.4.1.jar" />
-                  <option value="/opt/gradle/gradle-3.4.1/lib/gradle-logging-3.4.1.jar" />
-                  <option value="/opt/gradle/gradle-3.4.1/lib/ant-1.9.6.jar" />
-                  <option value="/opt/gradle/gradle-3.4.1/lib/gradle-launcher-3.4.1.jar" />
-                  <option value="/opt/gradle/gradle-3.4.1/lib/gradle-native-3.4.1.jar" />
-                  <option value="/opt/gradle/gradle-3.4.1/lib/gradle-core-3.4.1.jar" />
-                  <option value="/opt/gradle/gradle-3.4.1/lib/gradle-model-core-3.4.1.jar" />
-                  <option value="/opt/gradle/gradle-3.4.1/lib/gradle-jvm-services-3.4.1.jar" />
-                  <option value="/opt/gradle/gradle-3.4.1/lib/groovy-all-2.4.7.jar" />
-                  <option value="/opt/gradle/gradle-3.4.1/lib/gradle-version-info-3.4.1.jar" />
-                  <option value="/opt/gradle/gradle-3.4.1/lib/gradle-open-api-3.4.1.jar" />
-                  <option value="/opt/gradle/gradle-3.4.1/lib/gradle-ui-3.4.1.jar" />
-                  <option value="/opt/gradle/gradle-3.4.1/lib/plugins/gradle-maven-3.4.1.jar" />
-                  <option value="/opt/gradle/gradle-3.4.1/lib/plugins/gradle-testing-native-3.4.1.jar" />
-                  <option value="/opt/gradle/gradle-3.4.1/lib/plugins/gradle-ear-3.4.1.jar" />
-                  <option value="/opt/gradle/gradle-3.4.1/lib/plugins/gradle-resources-sftp-3.4.1.jar" />
-                  <option value="/opt/gradle/gradle-3.4.1/lib/plugins/gradle-plugins-3.4.1.jar" />
-                  <option value="/opt/gradle/gradle-3.4.1/lib/plugins/gradle-antlr-3.4.1.jar" />
-                  <option value="/opt/gradle/gradle-3.4.1/lib/plugins/gradle-language-groovy-3.4.1.jar" />
-                  <option value="/opt/gradle/gradle-3.4.1/lib/plugins/gradle-ivy-3.4.1.jar" />
-                  <option value="/opt/gradle/gradle-3.4.1/lib/plugins/ivy-2.2.0.jar" />
-                  <option value="/opt/gradle/gradle-3.4.1/lib/plugins/gradle-resources-s3-3.4.1.jar" />
-                  <option value="/opt/gradle/gradle-3.4.1/lib/plugins/gradle-language-scala-3.4.1.jar" />
-                  <option value="/opt/gradle/gradle-3.4.1/lib/plugins/gradle-composite-builds-3.4.1.jar" />
-                  <option value="/opt/gradle/gradle-3.4.1/lib/plugins/gradle-dependency-management-3.4.1.jar" />
-                  <option value="/opt/gradle/gradle-3.4.1/lib/plugins/gradle-resources-http-3.4.1.jar" />
-                  <option value="/opt/gradle/gradle-3.4.1/lib/plugins/gradle-ide-3.4.1.jar" />
-                  <option value="/opt/gradle/gradle-3.4.1/lib/plugins/gradle-ide-native-3.4.1.jar" />
-                  <option value="/opt/gradle/gradle-3.4.1/lib/plugins/gradle-tooling-api-builders-3.4.1.jar" />
-                  <option value="/opt/gradle/gradle-3.4.1/lib/plugins/gradle-workers-3.4.1.jar" />
-                  <option value="/opt/gradle/gradle-3.4.1/lib/plugins/gradle-diagnostics-3.4.1.jar" />
-                  <option value="/opt/gradle/gradle-3.4.1/lib/plugins/gradle-build-comparison-3.4.1.jar" />
-                  <option value="/opt/gradle/gradle-3.4.1/lib/plugins/gradle-language-native-3.4.1.jar" />
-                  <option value="/opt/gradle/gradle-3.4.1/lib/plugins/gradle-platform-native-3.4.1.jar" />
-                  <option value="/opt/gradle/gradle-3.4.1/lib/plugins/gradle-osgi-3.4.1.jar" />
-                  <option value="/opt/gradle/gradle-3.4.1/lib/plugins/gradle-plugin-development-3.4.1.jar" />
-                  <option value="/opt/gradle/gradle-3.4.1/lib/plugins/gradle-build-init-3.4.1.jar" />
-                  <option value="/opt/gradle/gradle-3.4.1/lib/plugins/gradle-testing-base-3.4.1.jar" />
-                  <option value="/opt/gradle/gradle-3.4.1/lib/plugins/gradle-jacoco-3.4.1.jar" />
-                  <option value="/opt/gradle/gradle-3.4.1/lib/plugins/gradle-build-cache-http-3.4.1.jar" />
-                  <option value="/opt/gradle/gradle-3.4.1/lib/plugins/gradle-language-jvm-3.4.1.jar" />
-                  <option value="/opt/gradle/gradle-3.4.1/lib/plugins/gradle-scala-3.4.1.jar" />
-                  <option value="/opt/gradle/gradle-3.4.1/lib/plugins/gradle-test-kit-3.4.1.jar" />
-                  <option value="/opt/gradle/gradle-3.4.1/lib/plugins/gradle-testing-jvm-3.4.1.jar" />
-                  <option value="/opt/gradle/gradle-3.4.1/lib/plugins/gradle-announce-3.4.1.jar" />
-                  <option value="/opt/gradle/gradle-3.4.1/lib/plugins/gradle-plugin-use-3.4.1.jar" />
-                  <option value="/opt/gradle/gradle-3.4.1/lib/plugins/gradle-signing-3.4.1.jar" />
-                  <option value="/opt/gradle/gradle-3.4.1/lib/plugins/gradle-language-java-3.4.1.jar" />
-                  <option value="/opt/gradle/gradle-3.4.1/lib/plugins/gradle-publish-3.4.1.jar" />
-                  <option value="/opt/gradle/gradle-3.4.1/lib/plugins/gradle-platform-jvm-3.4.1.jar" />
-                  <option value="/opt/gradle/gradle-3.4.1/lib/plugins/gradle-javascript-3.4.1.jar" />
-                  <option value="/opt/gradle/gradle-3.4.1/lib/plugins/gradle-jetty-3.4.1.jar" />
-                  <option value="/opt/gradle/gradle-3.4.1/lib/plugins/gradle-ide-play-3.4.1.jar" />
-                  <option value="/opt/gradle/gradle-3.4.1/lib/plugins/gradle-platform-play-3.4.1.jar" />
-                  <option value="/opt/gradle/gradle-3.4.1/lib/plugins/gradle-reporting-3.4.1.jar" />
-                  <option value="/opt/gradle/gradle-3.4.1/lib/plugins/gradle-code-quality-3.4.1.jar" />
-                  <option value="/opt/gradle/gradle-3.4.1/lib/plugins/gradle-platform-base-3.4.1.jar" />
                   <option value="$PROJECT_DIR$/addressbook-web-tests/buildSrc/src/main/java" />
                   <option value="$PROJECT_DIR$/addressbook-web-tests/buildSrc/src/main/groovy" />
                 </list>
@@ -914,11 +856,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1306" />
-    <option name="y" value="122" />
-    <option name="width" value="1758" />
-    <option name="height" value="1014" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="640" />
+    <option name="height" value="984" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -936,10 +876,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -947,10 +883,60 @@
               <item name="Jpft" type="b2602c69:ProjectViewProjectNode" />
               <item name="Jpft" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
+            <path>
+              <item name="Jpft" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Jpft" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="addressbook-web-tests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Jpft" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Jpft" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="addressbook-web-tests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Jpft" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Jpft" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="addressbook-web-tests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Jpft" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Jpft" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="addressbook-web-tests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Jpft" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Jpft" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="addressbook-web-tests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="addressbook" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Jpft" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Jpft" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Jpft" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Jpft" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1191,6 +1177,7 @@
       <option name="presentableId" value="Default" />
       <updated>1517675716259</updated>
       <workItem from="1518009289530" duration="78000" />
+      <workItem from="1518100247577" duration="109000" />
     </task>
     <servers />
   </component>
@@ -1209,10 +1196,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="78000" />
+    <option name="totallyTimeSpent" value="187000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1306" y="122" width="1758" height="1014" extended-state="0" />
+    <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1226,10 +1213,10 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18845701" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26213592" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35447338" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2343934" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16181229" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1256,6 +1243,22 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/addressbook-web-tests/src/test/java/ru/stqa/pft/addressbook/GroupCreationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addressbook-web-tests/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/addressbook-web-tests/src/test/java/ru/stqa/pft/addressbook/GroupCreationTests.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
