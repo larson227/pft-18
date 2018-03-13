@@ -7,10 +7,8 @@ import java.util.*;
 public class FileCommander {
     Map<String, String> mapList = new LinkedHashMap<>();
     CreateTree createTree = new CreateTree();
-//    File dir = new File("E:\\1");
+    //    File dir = new File("E:\\1");
     Map<String, String> mapList2 = new LinkedHashMap<>();
-
-
 
 
     public static void main(String[] args) {
@@ -18,23 +16,52 @@ public class FileCommander {
 //        Scanner scanner = new Scanner(System.in);
 //        File dir = new File(scanner.nextLine());
         fileAssert.go();
+        fileAssert.choice();
 
     }
-    public void go(){
-        System.out.println("enter path");
+
+    public void go() {
+        System.out.println("enter path to directory");
         Scanner scanner = new Scanner(System.in);
         File dir = new File(scanner.nextLine());
         addToMap(dir);
         mapList2.putAll(mapList);
         sorter(mapList);
-        System.out.println("sortBA");
+    }
+
+
+    public void choice() {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("Enter choice: \n1.sort a-y\n2.sort y-a\n3.default path\n4.re-enter path\n5.close");
+        switch (scanner.nextInt()) {
+            case 1:
+                Map<String, String> sortedMap1 = sortByValueAB(mapList2);
+                printMap(sortedMap1);
+                choice();
+                break;
+            case 2:
+                Map<String, String> sortedMap2 = sortByValueBA(mapList2);
+                printMap(sortedMap2);
+                choice();
+                break;
+            case 3:
+                sorter(mapList);
+                choice();
+                break;
+            case 4:
+                go();
+                choice();
+                break;
+            case 5:
+                break;
+        }
+/*        System.out.println("sortAB");
         Map<String, String> sortedMap1 = sortByValueAB(mapList2);
         printMap(sortedMap1);
         System.out.println("sortAB");
         Map<String, String> sortedMap2 = sortByValueBA(mapList2);
-        printMap(sortedMap2);
+        printMap(sortedMap2);*/
     }
-
 
     //добавление элементов в мап
     public void addToMap(File dir) {
@@ -72,7 +99,7 @@ public class FileCommander {
 
     }
 
-    private Map<String, String> sortByValueAB(Map<String, String> mapList) {
+    private Map<String, String> sortByValueBA(Map<String, String> mapList) {
         // 1. Convert Map to List of Map
         List<Map.Entry<String, String>> list =
                 new LinkedList<Map.Entry<String, String>>(mapList.entrySet());
@@ -94,7 +121,7 @@ public class FileCommander {
         return sortedMap;
     }
 
-    private Map<String, String> sortByValueBA(Map<String, String> mapList) {
+    private Map<String, String> sortByValueAB(Map<String, String> mapList) {
         // 1. Convert Map to List of Map
         List<Map.Entry<String, String>> list =
                 new LinkedList<Map.Entry<String, String>>(mapList.entrySet());
@@ -122,7 +149,6 @@ public class FileCommander {
             System.out.println(entry.getKey());
         }
     }
-
 
 
 }
