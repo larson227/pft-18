@@ -1,0 +1,1456 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2013-08-08 12:11"><shop><name>DESTEN</name><company>ООО "Дестен ПК"</company><url>http://Desten.ru/</url>  <currencies>
+      <currency id="RUR" rate="1"/>
+      <currency id="USD" rate="33.6"/>
+    </currencies>
+       <offers>
+      <offer id="118453" type="vendor.model" available="true">
+        <price>537.6</price>
+        <wprice>501.76</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60065682</categoryId>
+        <typePrefix>ПЕРСОНАЛЬНЫЕ КОМПЬЮТЕРЫ DESTEN eStudio (универсальные)</typePrefix>
+        <vendor>DESTEN</vendor>
+        <model>Системный блок Desten eStudio 1025D</model>
+        <description>Процессор Intel Pentium Dual-Core E5200 2.50/800/2M LGA775 OEM 
+Модуль памяти DDR-RAM2 1Gb 800MHz Kingston KVR800D2N6/1G - 2 
+Жесткий диск 250 Gb Hitachi Deskstar T7K500 HDP725025GLA380 7200RPM 8Mb SATA-2 
+Видеоадаптер 512MB Gainward GF9400GT 512MB,with CUDA, PCI-E, DDR2, 128bit, HDMI 
+Привод DVD±R/RW LG GH22NS40 Black SATA 
+Корпус Super Power 1019-CA  (350W) P4 USB/AU PW 1 24 Pin LCD 
+Кулер Socket775 Igloo 5058PWM 3.4GHz/95Вт/15-39дБа/клипсы 4pin 
+Картридер 56 in 1, 3,5" USB2.0 Black OEM 
+Клавиатура Defender KS-940 black, USB 
+Мышь Genius NetScroll 110 Black оптическая (USB), 800dpi,  (GM-Nscr 110 Black U) 
+ПО 66I-00729 Windows Vista Home Prem 32-bit Russian 1pk DSP OEI DVD 
+ПО 66I-03873 Windows Vista Home Prem PUP 32-bit XT/NL/IT/RU ORY OEI Offer Form </description>
+      </offer>
+      <offer id="118454" type="vendor.model" available="true">
+        <price>440.4</price>
+        <wprice>411.04</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60065682</categoryId>
+        <typePrefix>ПЕРСОНАЛЬНЫЕ КОМПЬЮТЕРЫ DESTEN eStudio (универсальные)</typePrefix>
+        <vendor>DESTEN</vendor>
+        <model>Системный блок Desten eStudio 1026D</model>
+        <description>Процессор Intel Pentium Dual-Core E5300 2.60/800/2M LGA775 OEM 
+Модуль памяти DDR-RAM2 1Gb 800MHz Kingston KVR800D2N6/1G - 2 
+Жесткий диск 250 Gb Hitachi Deskstar T7K500 HDP725025GLA380 7200RPM 8Mb SATA-2 
+Видеоадаптер 512MB Gainward GF9400GT 512MB,with CUDA, PCI-E, DDR2, 128bit, HDMI 
+Привод DVD±R/RW Lite-On iHAS124-34 (24x8x16xDVD/48x32x48xCD) SATA Black 
+Корпус Super Power 1019-CA  (350W) P4 USB/AU PW 1 24 Pin LCD 
+Кулер Socket775 Igloo 5063PWM 3.4GHz/95Вт/19-39дБа/клипсы 4pin 
+Картридер 56 in 1, 3,5" USB2.0 Black OEM 
+Мышь Genius NetScroll 110 Black оптическая (USB), 800dpi,  (GM-Nscr 110 Black U) 
+ПО 66I-00729 Windows Vista Home Prem 32-bit Russian 1pk DSP OEI DVD 
+ПО 66I-03873 Windows Vista Home Prem PUP 32-bit XT/NL/IT/RU ORY OEI Offer Form </description>
+      </offer>
+      <offer id="118449" type="vendor.model" available="true">
+        <price>550.8</price>
+        <wprice>514.08</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60065682</categoryId>
+        <typePrefix>ПЕРСОНАЛЬНЫЕ КОМПЬЮТЕРЫ DESTEN eStudio (универсальные)</typePrefix>
+        <vendor>DESTEN</vendor>
+        <model>Системный блок Desten eStudio 1025E</model>
+        <description>Процессор Intel  Core 2 Duo E7200 2.53GHz 1066MHz 3Mb LGA775 OEM 
+Материнская плата Asus  P5KPL-AM mATX 
+Модуль памяти DDR-RAM2 1Gb 800MHz Kingston KVR800D2N6/1G - 2 
+Жесткий диск 250 Gb Hitachi Deskstar T7K500 HDP725025GLA380 7200RPM 8Mb SATA-2 
+Видеоадаптер 512MB Zotac 9500GT with CUDA PCI-Ex 512MB DDR3 128BIT FAN RTL (ZT- 
+Привод DVD±RW Samsung  S203D BeWe белый SATA 
+Корпус Enlight PM240435 350W Яркий Белый микролифт передней панели USB аудио 
+Кулер Socket775 Igloo 5058PWM 3.4GHz/95Вт/15-39дБа/клипсы 4pin 
+Картридер 56 in 1, 3,5" USB2.0 Black OEM 
+Клавиатура проводная стандарт KS-910 W (White), USB, Desten Defender 
+Мышь проводная 2330 W (бел), USB Desten Defender 
+ПО 66I-00729 Windows Vista Home Prem 32-bit Russian 1pk DSP OEI DVD 
+ПО 66I-03873 Windows Vista Home Prem PUP 32-bit XT/NL/IT/RU ORY OEI Offer Form </description>
+      </offer>
+      <offer id="118450" type="vendor.model" available="true">
+        <price>508.8</price>
+        <wprice>474.88</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60065682</categoryId>
+        <typePrefix>ПЕРСОНАЛЬНЫЕ КОМПЬЮТЕРЫ DESTEN eStudio (универсальные)</typePrefix>
+        <vendor>DESTEN</vendor>
+        <model>Системный блок Desten eStudio 1026E</model>
+        <description>Процессор Intel  Core 2 Duo E7300 2.66GHz 1066MHz 3Mb LGA775 OEM 
+Модуль памяти DDR-RAM2 1Gb 800MHz Kingston KVR800D2N6/1G - 2 
+Жесткий диск 250 Gb Hitachi Deskstar T7K500 HDP725025GLA380 7200RPM 8Mb SATA-2 
+Видеоадаптер 512MB Zotac 9500GT with CUDA PCI-Ex 512MB DDR3 128BIT FAN RTL (ZT- 
+Привод DVD±RW Samsung  S203D BeWe белый SATA 
+Корпус Enlight PM240435 350W Яркий Белый микролифт передней панели USB аудио 
+Кулер Socket775 Igloo 5058PWM 3.4GHz/95Вт/15-39дБа/клипсы 4pin 
+Картридер 56 in 1, 3,5" USB2.0 Black OEM 
+Клавиатура проводная стандарт KS-910 W (White), USB, Desten Defender 
+Мышь проводная 2330 W (бел), USB Desten Defender 
+ПО 66I-00729 Windows Vista Home Prem 32-bit Russian 1pk DSP OEI DVD 
+ПО 66I-03873 Windows Vista Home Prem PUP 32-bit XT/NL/IT/RU ORY OEI Offer Form </description>
+      </offer>
+      <offer id="118451" type="vendor.model" available="true">
+        <price>451.2</price>
+        <wprice>421.12</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60065682</categoryId>
+        <typePrefix>ПЕРСОНАЛЬНЫЕ КОМПЬЮТЕРЫ DESTEN eStudio (универсальные)</typePrefix>
+        <vendor>DESTEN</vendor>
+        <model>Системный блок Desten eStudio 1028E</model>
+        <description>Процессор Intel  Core 2 Duo E7400 2.8GHz 1066MHz 3Mb LGA775 OEM 
+Модуль памяти DDR-RAM2 1Gb 800MHz Kingston KVR800D2N6/1G - 2 
+Жесткий диск 250 Gb Hitachi Deskstar T7K500 HDP725025GLA380 7200RPM 8Mb SATA-2 
+Видеоадаптер 512MB Zotac 9500GT with CUDA PCI-Ex 512MB DDR3 128BIT FAN RTL (ZT- 
+Привод DVD±R/RW Lite-On iHAS124-34 (24x8x16xDVD/48x32x48xCD) SATA Black 
+Корпус Enlight PM240435 350W Яркий Белый микролифт передней панели USB аудио 
+Кулер Socket775 Igloo 5063PWM 3.4GHz/95Вт/19-39дБа/клипсы 4pin 
+Картридер 56 in 1, 3,5" USB2.0 Black OEM 
+ПО 66I-00729 Windows Vista Home Prem 32-bit Russian 1pk DSP OEI DVD </description>
+      </offer>
+      <offer id="118464" type="vendor.model" available="true">
+        <price>950.4</price>
+        <wprice>887.04</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60065682</categoryId>
+        <typePrefix>ПЕРСОНАЛЬНЫЕ КОМПЬЮТЕРЫ DESTEN eStudio (универсальные)</typePrefix>
+        <vendor>DESTEN</vendor>
+        <model>Системный блок Desten eStudio 1130E</model>
+        <description>Процессор Intel  Core 2 Duo E8400 3.0GHz 1333MHz 6Mb LGA775 OEM 
+Модуль памяти DDR-RAM2 1Gb 800MHz Kingston KVR800D2N6/1G - 2 
+Жесткий диск 320 Gb WD3200AAKS 7200RPM 16MB SATA-2 
+Видеоадаптер 512MB Zotac PCI-E 9600GT DDR3 2xDVI TV (ZT-96TES3P-FSP/R) 
+Привод DVD±R/RW Lite-On iHAS124-34 (24x8x16xDVD/48x32x48xCD) SATA Black 
+Корпус Raidmax ATX SIGMA LA VIE LEWSP 500W (Floston) (кожа) 
+Кулер Socket775 Igloo 5063PWM 3.4GHz/95Вт/19-39дБа/клипсы 4pin 
+Картридер 56 in 1, 3,5" USB2.0 Black OEM 
+ПО 66I-00729 Windows Vista Home Prem 32-bit Russian 1pk DSP OEI DVD 
+Мышь Genius NetScroll 110 Black оптическая (USB), 800dpi,  (GM-Nscr 110 Black U) 
+ПО 66I-03873 Windows Vista Home Prem PUP 32-bit XT/NL/IT/RU ORY OEI Offer Form 
+Материнская плата Asus P5Q-EM mATX </description>
+      </offer>
+      <offer id="118466" type="vendor.model" available="true">
+        <price>969.6</price>
+        <wprice>904.96</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60065682</categoryId>
+        <typePrefix>ПЕРСОНАЛЬНЫЕ КОМПЬЮТЕРЫ DESTEN eStudio (универсальные)</typePrefix>
+        <vendor>DESTEN</vendor>
+        <model>Системный блок Desten eStudio 1131E</model>
+        <description>Процессор Intel  Core 2 Duo E8500 3.16GHz 1333MHz 6Mb LGA775 ОЕМ 
+Модуль памяти DDR-RAM2 1Gb 800MHz Kingston KVR800D2N6/1G - 2 
+Жесткий диск 320 Gb WD3200AAKS 7200RPM 16MB SATA-2 
+Видеоадаптер 512MB Zotac PCI-E 9600GT DDR3 2xDVI TV (ZT-96TES3P-FSP/R) 
+Привод DVD±R/RW Lite-On iHAS124-34 (24x8x16xDVD/48x32x48xCD) SATA Black 
+Корпус Raidmax ATX SIGMA LA VIE LEWSP 500W (Floston) (кожа) 
+Кулер Socket775 Igloo 5063PWM 3.4GHz/95Вт/19-39дБа/клипсы 4pin 
+Картридер 56 in 1, 3,5" USB2.0 Black OEM 
+ПО 66I-00729 Windows Vista Home Prem 32-bit Russian 1pk DSP OEI DVD 
+Мышь Genius NetScroll 110 Black оптическая (USB), 800dpi,  (GM-Nscr 110 Black U) 
+ПО 66I-03873 Windows Vista Home Prem PUP 32-bit XT/NL/IT/RU ORY OEI Offer Form 
+Материнская плата Asus P5Q-EM mATX </description>
+      </offer>
+      <offer id="118467" type="vendor.model" available="true">
+        <price>1047.6</price>
+        <wprice>977.76</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60065682</categoryId>
+        <typePrefix>ПЕРСОНАЛЬНЫЕ КОМПЬЮТЕРЫ DESTEN eStudio (универсальные)</typePrefix>
+        <vendor>DESTEN</vendor>
+        <model>Системный блок Desten eStudio 1133E</model>
+        <description>Процессор Intel  Core 2 Duo E8600 3.33GHz 1333MHz 6Mb LGA775 OEM 
+Модуль памяти DDR-RAM2 1Gb 800MHz Kingston KVR800D2N6/1G - 2 
+Жесткий диск 320 Gb WD3200AAKS 7200RPM 16MB SATA-2 
+Видеоадаптер 512MB Zotac PCI-E 9600GT DDR3 2xDVI TV (ZT-96TES3P-FSP/R) 
+Привод DVD±R/RW LG GH22NS50 Black SATA 
+Корпус Raidmax ATX SIGMA LA VIE LEWSP 500W (Floston) (кожа) 
+Кулер Socket775 Igloo 5063PWM 3.4GHz/95Вт/19-39дБа/клипсы 4pin 
+Картридер 56 in 1, 3,5" USB2.0 Black OEM 
+ПО 66I-00729 Windows Vista Home Prem 32-bit Russian 1pk DSP OEI DVD 
+Клавиатура Defender KS-940 black, USB 
+Мышь Genius NetScroll 110 Black оптическая (USB), 800dpi,  (GM-Nscr 110 Black U) 
+ПО 66I-03873 Windows Vista Home Prem PUP 32-bit XT/NL/IT/RU ORY OEI Offer Form 
+Материнская плата Asus P5Q-EM mATX </description>
+      </offer>
+      <offer id="118465" type="vendor.model" available="true">
+        <price>969.6</price>
+        <wprice>904.96</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60065682</categoryId>
+        <typePrefix>ПЕРСОНАЛЬНЫЕ КОМПЬЮТЕРЫ DESTEN eStudio (универсальные)</typePrefix>
+        <vendor>DESTEN</vendor>
+        <model>Системный блок Desten eStudio 1126E</model>
+        <description>Процессор Intel  Core 2 Duo E8200 2.66GHz 1333MHz 6Mb LGA775 OEM 
+Модуль памяти DDR-RAM2 1Gb 800MHz Kingston KVR800D2N6/1G - 2 
+Жесткий диск 320 Gb WD3200AAKS 7200RPM 16MB SATA-2 
+Видеоадаптер 512MB Zotac PCI-E 9600GT DDR3 2xDVI TV (ZT-96TES3P-FSP/R) 
+Привод DVD±R/RW Lite-On iHAS124-34 (24x8x16xDVD/48x32x48xCD) SATA Black 
+Корпус Raidmax ATX SIGMA LA VIE LEWSP 500W (Floston) (кожа) 
+Кулер Socket775 Igloo 5063PWM 3.4GHz/95Вт/19-39дБа/клипсы 4pin 
+Картридер 56 in 1, 3,5" USB2.0 Black OEM 
+ПО 66I-00729 Windows Vista Home Prem 32-bit Russian 1pk DSP OEI DVD 
+Мышь Genius NetScroll 110 Black оптическая (USB), 800dpi,  (GM-Nscr 110 Black U) 
+ПО 66I-03873 Windows Vista Home Prem PUP 32-bit XT/NL/IT/RU ORY OEI Offer Form 
+Материнская плата Asus P5Q-EM mATX </description>
+      </offer>
+      <offer id="118463" type="vendor.model" available="true">
+        <price>955</price>
+        <wprice>878.6</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60065682</categoryId>
+        <typePrefix>ПЕРСОНАЛЬНЫЕ КОМПЬЮТЕРЫ DESTEN eStudio (топовые)</typePrefix>
+        <vendor>DESTEN</vendor>
+        <model>Системный блок Desten eStudio 1123Q</model>
+        <description>Процессор Intel  Core 2 Quad Q8200 2,33GHz 1333MHz 4Mb LGA775 OEM 
+Жесткий диск 500 GB Hitachi HDP725050GLA360  16Mb SATA-2 
+Видеоадаптер 512MB Zotac 9800GTX+ with CUDA  PCI-E2 512MB, DDR3, AMP EDITION  2 
+Привод DVD±R/RW Lite-On iHAS124-34 (24x8x16xDVD/48x32x48xCD) SATA Black 
+Корпус Raidmax ATX Smilodon 500w 
+Картридер 56 in 1, 3,5" USB2.0 Black OEM 
+ПО 66I-00729 Windows Vista Home Prem 32-bit Russian 1pk DSP OEI DVD 
+Мышь Genius NetScroll 110 Black оптическая (USB), 800dpi,  (GM-Nscr 110 Black U) 
+Кулер Socket775 Igloo 5063PWM 3.4GHz/95Вт/19-39дБа/клипсы 4pin 
+Модуль памяти DDR-RAM2 1Gb 800MHz Kingston KVR800D2N6/1G - 2 
+ПО 66I-03873 Windows Vista Home Prem PUP 32-bit XT/NL/IT/RU ORY OEI Offer Form 
+Материнская плата Asus P5Q-EM mATX </description>
+      </offer>
+      <offer id="114472" type="vendor.model" available="true">
+        <price>932.5</price>
+        <wprice>857.9</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60065682</categoryId>
+        <typePrefix>ПЕРСОНАЛЬНЫЕ КОМПЬЮТЕРЫ DESTEN eStudio (топовые)</typePrefix>
+        <vendor>DESTEN</vendor>
+        <model>Системный блок Desten eStudio 1124Q</model>
+        <description>Процессор Intel  Core 2 Quad Q6600 2.4GHz 1066MHz 8Mb LGA775 OEM 
+Жесткий диск 500 GB Hitachi HDP725050GLA360  16Mb SATA-2 
+Видеоадаптер 512MB Zotac 9800GTX+ with CUDA  PCI-E2 512MB, DDR3, AMP EDITION  2 
+Привод DVD±R/RW LG GH22NS40 Black SATA 
+Корпус Raidmax ATX Smilodon 500w 
+Картридер 56 in 1, 3,5" USB2.0 Black OEM 
+ПО 66I-00729 Windows Vista Home Prem 32-bit Russian 1pk DSP OEI DVD 
+Клавиатура Defender KS-940 black, USB 
+Мышь Genius NetScroll 110 Black оптическая (USB), 800dpi,  (GM-Nscr 110 Black U) 
+Кулер Socket775 Igloo 5058PWM 3.4GHz/95Вт/15-39дБа/клипсы 4pin 
+Модуль памяти DDR-RAM2 1Gb 800MHz Kingston KVR800D2N6/1G - 2 
+ПО 66I-03873 Windows Vista Home Prem PUP 32-bit XT/NL/IT/RU ORY OEI Offer Form </description>
+      </offer>
+      <offer id="114473" type="vendor.model" available="true">
+        <price>936.25</price>
+        <wprice>861.35</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60065682</categoryId>
+        <typePrefix>ПЕРСОНАЛЬНЫЕ КОМПЬЮТЕРЫ DESTEN eStudio (топовые)</typePrefix>
+        <vendor>DESTEN</vendor>
+        <model>Системный блок Desten eStudio 1125Q</model>
+        <description>Процессор Intel  Core 2 Quad Q9300 2,5GHz 1333MHz 6Mb LGA775 OEM 
+Жесткий диск 500 GB Hitachi HDP725050GLA360  16Mb SATA-2 
+Видеоадаптер 512MB Zotac 9800GTX+ with CUDA  PCI-E2 512MB, DDR3, AMP EDITION  2 
+Привод DVD±R/RW Lite-On iHAS124-34 (24x8x16xDVD/48x32x48xCD) SATA Black 
+Корпус Raidmax ATX Smilodon 500w 
+Картридер 56 in 1, 3,5" USB2.0 Black OEM 
+ПО 66I-00729 Windows Vista Home Prem 32-bit Russian 1pk DSP OEI DVD 
+Мышь Genius NetScroll 110 Black оптическая (USB), 800dpi,  (GM-Nscr 110 Black U) 
+Кулер Socket775 Igloo 5063PWM 3.4GHz/95Вт/19-39дБа/клипсы 4pin 
+Модуль памяти DDR-RAM2 1Gb 800MHz Kingston KVR800D2N6/1G - 2 
+ПО 66I-03873 Windows Vista Home Prem PUP 32-bit XT/NL/IT/RU ORY OEI Offer Form 
+Материнская плата Asus P5Q-EM mATX </description>
+      </offer>
+      <offer id="114474" type="vendor.model" available="true">
+        <price>1183.75</price>
+        <wprice>1089.05</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60065682</categoryId>
+        <typePrefix>ПЕРСОНАЛЬНЫЕ КОМПЬЮТЕРЫ DESTEN eStudio (топовые)</typePrefix>
+        <vendor>DESTEN</vendor>
+        <model>Системный блок Desten eStudio 1126Q</model>
+        <description>Процессор Intel  Core 2 Quad Q9450 2,67GHz 1333MHz 12Mb LGA775 OEM 
+Жесткий диск 500 GB Hitachi HDP725050GLA360  16Mb SATA-2 
+Видеоадаптер 512MB Zotac 9800GTX+ with CUDA  PCI-E2 512MB, DDR3, AMP EDITION  2 
+Привод DVD±R/RW Lite-On iHAS124-34 (24x8x16xDVD/48x32x48xCD) SATA Black 
+Корпус Raidmax ATX Smilodon 500w 
+Картридер 56 in 1, 3,5" USB2.0 Black OEM 
+ПО 66I-00729 Windows Vista Home Prem 32-bit Russian 1pk DSP OEI DVD 
+Мышь Genius NetScroll 110 Black оптическая (USB), 800dpi,  (GM-Nscr 110 Black U) 
+Кулер Socket775 Igloo 5063PWM 3.4GHz/95Вт/19-39дБа/клипсы 4pin 
+Модуль памяти DDR-RAM2 1Gb 800MHz Kingston KVR800D2N6/1G - 2 
+ПО 66I-03873 Windows Vista Home Prem PUP 32-bit XT/NL/IT/RU ORY OEI Offer Form 
+Материнская плата Asus P5Q-EM mATX </description>
+      </offer>
+      <offer id="118441" type="vendor.model" available="true">
+        <price>244.8</price>
+        <wprice>228.48</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60065682</categoryId>
+        <typePrefix>ПЕРСОНАЛЬНЫЕ КОМПЬЮТЕРЫ DESTEN eStudio (базовые)</typePrefix>
+        <vendor>DESTEN</vendor>
+        <model>Системный блок Desten eStudio 916Ci</model>
+        <description>Процессор Intel  Celeron-Dual-Core E1200 1,6 GHz 512k LGA775 OEM 
+Модуль памяти DDR-RAM2 1Gb 800MHz Kingston KVR800D2N6/1G 
+Привод DVD±R/RW Lite-On iHAS124-34 (24x8x16xDVD/48x32x48xCD) SATA Black 
+Корпус Super Power 1019-CA  (350W) P4 USB/AU PW 1 24 Pin LCD 
+Кулер Socket775 Igloo 5063PWM 3.4GHz/95Вт/19-39дБа/клипсы 4pin 
+ПО 66G-00590 Windows Vista Home Basic 32-bit Russian 1pk DSP OEI DVD 
+ПО КиМ Большая энциклопедия 2004    (2СD) </description>
+      </offer>
+      <offer id="118442" type="vendor.model" available="true">
+        <price>244.8</price>
+        <wprice>228.48</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60065682</categoryId>
+        <typePrefix>ПЕРСОНАЛЬНЫЕ КОМПЬЮТЕРЫ DESTEN eStudio (базовые)</typePrefix>
+        <vendor>DESTEN</vendor>
+        <model>Системный блок Desten eStudio 918Ci</model>
+        <description>Процессор Intel  Celeron-Dual-Core E1400 2,0 GHz 512k LGA775 OEM 
+Модуль памяти DDR-RAM2 1Gb 800MHz Kingston KVR800D2N6/1G 
+Привод DVD±R/RW Lite-On iHAS124-34 (24x8x16xDVD/48x32x48xCD) SATA Black 
+Корпус Super Power 1019-CA  (350W) P4 USB/AU PW 1 24 Pin LCD 
+Кулер Socket775 Igloo 5063PWM 3.4GHz/95Вт/19-39дБа/клипсы 4pin 
+ПО 66G-00590 Windows Vista Home Basic 32-bit Russian 1pk DSP OEI DVD 
+ПО КиМ Большая энциклопедия 2004    (2СD) </description>
+      </offer>
+      <offer id="114594" type="vendor.model" available="true">
+        <price>1297.5</price>
+        <wprice>1193.7</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60065682</categoryId>
+        <typePrefix>ПЕРСОНАЛЬНЫЕ КОМПЬЮТЕРЫ DESTEN eStudio (топовые)</typePrefix>
+        <vendor>DESTEN</vendor>
+        <model>Системный блок Desten eStudio 1226I</model>
+        <description>Процессор Intel  Core i7 920 BX80601920 2.66/4.8GTsec/8M Box LGA1366 (Nehalem) 
+Материнская плата Gigabyte GA-EX58-UD3R socket-1366 X58/ICH10R ATX 
+Видеоадаптер 512MB ASUS  EN9800GT HB HTDI (GeForce 9800GT HB) 
+Привод DVD±R/RW Lite-On iHAS124-34 (24x8x16xDVD/48x32x48xCD) SATA Black 
+Корпус INWIN J629-B2/TA "B2-Stealth" ATX 450W USB/Audio/IEEE/Heatpipe, СЕРЫЙ 
+Картридер 56 in 1, 3,5" USB2.0 Black OEM 
+ПО 66I-00729 Windows Vista Home Prem 32-bit Russian 1pk DSP OEI DVD 
+Мышь Genius NetScroll 110 Black оптическая (USB), 800dpi,  (GM-Nscr 110 Black U) 
+Кулер Igloo 6100 PWM/Кулер ЦПУ/до 130Вт/Intel Core i7/s1366 (AD-6100WEP0DCR002) 
+ПО 66I-03873 Windows Vista Home Prem PUP 32-bit XT/NL/IT/RU ORY OEI Offer Form </description>
+      </offer>
+      <offer id="114595" type="vendor.model" available="true">
+        <price>1585</price>
+        <wprice>1458.2</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60065682</categoryId>
+        <typePrefix>ПЕРСОНАЛЬНЫЕ КОМПЬЮТЕРЫ DESTEN eStudio (топовые)</typePrefix>
+        <vendor>DESTEN</vendor>
+        <model>Системный блок Desten eStudio 1229I</model>
+        <description>Процессор Intel  Core i7 940 BX80601940 2.93/4.8GTsec/8M Box LGA1366 (Nehalem) 
+Материнская плата Gigabyte GA-EX58-UD3R socket-1366 X58/ICH10R ATX 
+Видеоадаптер 512MB ASUS  EN9800GT HB HTDI (GeForce 9800GT HB) 
+Привод DVD±R/RW Lite-On iHAS124-34 (24x8x16xDVD/48x32x48xCD) SATA Black 
+Корпус INWIN J629-B2/TA "B2-Stealth" ATX 450W USB/Audio/IEEE/Heatpipe, СЕРЫЙ 
+Картридер 56 in 1, 3,5" USB2.0 Black OEM 
+ПО 66I-00729 Windows Vista Home Prem 32-bit Russian 1pk DSP OEI DVD 
+Мышь Genius NetScroll 110 Black оптическая (USB), 800dpi,  (GM-Nscr 110 Black U) 
+Кулер Igloo 6100 PWM/Кулер ЦПУ/до 130Вт/Intel Core i7/s1366 (AD-6100WEP0DCR002) 
+ПО 66I-03873 Windows Vista Home Prem PUP 32-bit XT/NL/IT/RU ORY OEI Offer Form </description>
+      </offer>
+      <offer id="110166" type="vendor.model" available="true">
+        <price>2021.25</price>
+        <wprice>1859.55</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60065682</categoryId>
+        <typePrefix>ПЕРСОНАЛЬНЫЕ КОМПЬЮТЕРЫ DESTEN eStudio (топовые)</typePrefix>
+        <vendor>DESTEN</vendor>
+        <model>Системный блок Desten eStudio 1124QM</model>
+        <description>Процессор Intel  Core 2 Quad Q6600 2.4GHz 1066MHz 8Mb LGA775 OEM 
+Модуль памяти DDR-RAM2 1Gb 800MHz Kingston KVR800D2N6/1G - 2 
+Жесткий диск 500 Gb ST3500320AS 7200RPM 32Mb SATA-2 
+Видео адаптер PCI-E 512mb Asus  EN9800GT HB HTDI (GeForce 9800GT HB) 
+Привод DVD±RW LiteOn SATA LH-20A1S-15C / iHAS120 Черный 
+Корпус Zalman HD160XT BLACK 
+Звуковая карта Creative SB X-Fi Xtreme Audio, SB0790, Bulk 
+ТВ тюнер Behold TV M6 (аппаратное кодирование MPEG-2) 
+ПО Windows Vista Home Premium SP1 RUS 32Bit 
+Комплект Logitech Cordless Desktop MX 5500 (920-000444) 
+Блок питания Delta GPS-500AB-A ОЕМ 500W, ATX12V 2.0V+Active PFC/12cm fan 
+Материнская плата Asus  P5Q ATX 
+Кулер Socket775 Igloo 5058PWM 3.4GHz/95Вт/15-39дБа/шарикоподш /клипсы 4pin </description>
+      </offer>
+      <offer id="110167" type="vendor.model" available="true">
+        <price>1817.5</price>
+        <wprice>1672.1</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60065682</categoryId>
+        <typePrefix>ПЕРСОНАЛЬНЫЕ КОМПЬЮТЕРЫ DESTEN eStudio (топовые)</typePrefix>
+        <vendor>DESTEN</vendor>
+        <model>Системный блок Desten eStudio 1125QM</model>
+        <description>Процессор Intel  Core 2 Quad Q9300 2,5GHz 1333MHz 6Mb LGA775 OEM 
+Модуль памяти DDR-RAM2 1Gb 800MHz Kingston KVR800D2N6/1G - 2 
+Видеоадаптер 512MB ASUS  EN9800GT HB HTDI (GeForce 9800GT HB) 
+Привод DVD±R/RW Lite-On iHAS124-34 (24x8x16xDVD/48x32x48xCD) SATA Black 
+Корпус Zalman HD160XT BLACK 
+Звуковая карта Creative SB X-Fi Xtreme Audio, SB0792, Bulk 
+ТВ тюнер Behold TV M6 (аппаратное кодирование MPEG-2) 
+ПО Windows Vista Home Premium SP1 RUS 32Bit 
+Комплект Logitech Cordless Desktop MX 5500 (920-000444) 
+Блок питания Delta GPS-500AB-A ОЕМ 500W, ATX12V 2.0V+Active PFC/12cm fan 
+Кулер Socket775 Igloo 5063PWM 3.4GHz/95Вт/19-39дБа/клипсы 4pin 
+Материнская плата Asus P5Q Pro Turbo iP45  ATX </description>
+      </offer>
+      <offer id="110168" type="vendor.model" available="true">
+        <price>2065</price>
+        <wprice>1899.8</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60065682</categoryId>
+        <typePrefix>ПЕРСОНАЛЬНЫЕ КОМПЬЮТЕРЫ DESTEN eStudio (топовые)</typePrefix>
+        <vendor>DESTEN</vendor>
+        <model>Системный блок Desten eStudio 1126QM</model>
+        <description>Процессор Intel  Core 2 Quad Q9450 2,67GHz 1333MHz 12Mb LGA775 OEM 
+Модуль памяти DDR-RAM2 1Gb 800MHz Kingston KVR800D2N6/1G - 2 
+Видеоадаптер 512MB ASUS  EN9800GT HB HTDI (GeForce 9800GT HB) 
+Привод DVD±R/RW Lite-On iHAS124-34 (24x8x16xDVD/48x32x48xCD) SATA Black 
+Корпус Zalman HD160XT BLACK 
+Звуковая карта Creative SB X-Fi Xtreme Audio, SB0792, Bulk 
+ТВ тюнер Behold TV M6 (аппаратное кодирование MPEG-2) 
+ПО Windows Vista Home Premium SP1 RUS 32Bit 
+Комплект Logitech Cordless Desktop MX 5500 (920-000444) 
+Блок питания Delta GPS-500AB-A ОЕМ 500W, ATX12V 2.0V+Active PFC/12cm fan 
+Кулер Socket775 Igloo 5063PWM 3.4GHz/95Вт/19-39дБа/клипсы 4pin 
+Материнская плата Asus P5Q Pro Turbo iP45  ATX </description>
+      </offer>
+      <offer id="171293" type="vendor.model" available="true">
+        <price>199.36</price>
+        <wprice>192.24</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60066152</categoryId>
+        <typePrefix>ПЕРСОНАЛЬНЫЕ КОМПЬЮТЕРЫ DESTEN eVolution</typePrefix>
+        <vendor>DESTEN</vendor>
+        <model>Системный блок DESTEN eVolution a010u</model>
+        <description>Платформа Pegatron AMIS (SAISHIAT) L6 D2500  (dual core 1.86 GHz) 90P2-5G10070 
+Модуль памяти DDR3 1Gb (pc10600) SO-DIMM Kingston (KVR1333D3S9/1G) 
+Жесткий диск WD Original SATA 250Gb WD2500LPVT (5400rpm) 8Mb 2.5" </description>
+      </offer>
+      <offer id="197444" type="vendor.model" available="true">
+        <price>387.52</price>
+        <wprice>373.68</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60259680</categoryId>
+        <typePrefix>ПЕРСОНАЛЬНЫЕ КОМПЬЮТЕРЫ DESTEN eVolution</typePrefix>
+        <vendor>DESTEN</vendor>
+        <model>Моноблок DESTEN eVolution s415 15,6" Atom D2700/2Гб/500Гб HDD/Wi-Fi/no OS</model>
+        <description>Платформа Shuttle X50V3 (BB.B) 15.6" touch screen, Barebone Black 
+Модуль памяти DDR3 2Gb (PC3-10600) 1333MHz SO-DIMM Kingston (KVR1333D3S8S9/2G) 
+Жесткий диск 500ГБ 2.5" WD "Scorpio Blue WD5000BPVT", 5400об/мин., 8МБ (SATA II) 
+Клавиатура Logitech K120, USB, black, Rtl, [920-002522] 
+Мышь Logitech B110 Optical Mouse, USB, 800dpi, Black, [9 (910-001246) </description>
+      </offer>
+      <offer id="197580" type="vendor.model" available="true">
+        <price>619.36</price>
+        <wprice>597.24</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60259680</categoryId>
+        <typePrefix>ПЕРСОНАЛЬНЫЕ КОМПЬЮТЕРЫ DESTEN eVolution</typePrefix>
+        <vendor>DESTEN</vendor>
+        <model>Моноблок DESTEN eVolution e621 21,5" i3-3220/2Гб/500Гб HDD/DVD+-RW/Wi-Fi/no OS</model>
+        <description>Процессор Intel LGA1155 Core i3-3220 (3.3/3Mb) (SR0RG) OEM 
+Платформа моноблока EliteGroup G11-21ENS6BK-4, 21.5", H61,WLan 
+Модуль памяти DDR3 2Gb (PC3-10600) 1333MHz SO-DIMM Kingston (KVR1333D3S8S9/2G) 
+Жесткий диск 500ГБ Seagate ST500DM002 7200об./мин., 16МБ (SATA III) 
+Привод LiteON DVD±R/RW DS-8A9SH-01C Black Slim SATA </description>
+      </offer>
+      <offer id="197611" type="vendor.model" available="true">
+        <price>687.68</price>
+        <wprice>663.12</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60259680</categoryId>
+        <typePrefix>ПЕРСОНАЛЬНЫЕ КОМПЬЮТЕРЫ DESTEN eVolution</typePrefix>
+        <vendor>DESTEN</vendor>
+        <model>Моноблок DESTEN eVolution e621 21,5" i5-3330/2Гб/500Гб HDD/DVD+-RW/Wi-Fi/no OS</model>
+        <description>Процессор Intel "Core i5-3330" (3.00ГГц, 4x256КБ+6МБ, EM64T, GPU) Socket1155 
+Платформа моноблока EliteGroup G11-21ENS6BK-4, 21.5", H61,WLan 
+Модуль памяти DDR3 2Gb (PC3-10600) 1333MHz SO-DIMM Kingston (KVR1333D3S8S9/2G) 
+Жесткий диск 500ГБ Seagate ST500DM002 7200об./мин., 16МБ (SATA III) 
+Привод LiteON DVD±R/RW DS-8A9SH-01C Black Slim SATA </description>
+      </offer>
+      <offer id="197584" type="vendor.model" available="true">
+        <price>702.24</price>
+        <wprice>677.16</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60259680</categoryId>
+        <typePrefix>ПЕРСОНАЛЬНЫЕ КОМПЬЮТЕРЫ DESTEN eVolution</typePrefix>
+        <vendor>DESTEN</vendor>
+        <model>Моноблок DESTEN eVolution e624 23,6" i3-3220/2Гб/500Гб HDD/DVD+-RW/Wi-Fi/no OS</model>
+        <description>Процессор Intel LGA1155 Core i3-3220 (3.3/3Mb) (SR0RG) OEM 
+Платформа моноблока ECS G24-H612NBE-11    23.6"  H61 L6 
+Модуль памяти DDR3 2Gb (PC3-10600) 1333MHz SO-DIMM Kingston (KVR1333D3S8S9/2G) 
+Жесткий диск 500ГБ Seagate ST500DM002 7200об./мин., 16МБ (SATA III) 
+Привод LiteON DVD±R/RW DS-8A9SH-01C Black Slim SATA </description>
+      </offer>
+      <offer id="197613" type="vendor.model" available="true">
+        <price>770.56</price>
+        <wprice>743.04</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60259680</categoryId>
+        <typePrefix>ПЕРСОНАЛЬНЫЕ КОМПЬЮТЕРЫ DESTEN eVolution</typePrefix>
+        <vendor>DESTEN</vendor>
+        <model>Моноблок DESTEN eVolution e624 23,6" i5-3330/2Гб/500Гб HDD/DVD+-RW/Wi-Fi/no OS</model>
+        <description>Процессор Intel "Core i5-3330" (3.00ГГц, 4x256КБ+6МБ, EM64T, GPU) Socket1155 
+Платформа моноблока ECS G24-H612NBE-11    23.6"  H61 L6 
+Модуль памяти DDR3 2Gb (PC3-10600) 1333MHz SO-DIMM Kingston (KVR1333D3S8S9/2G) 
+Жесткий диск 500ГБ Seagate ST500DM002 7200об./мин., 16МБ (SATA III) 
+Привод LiteON DVD±R/RW DS-8A9SH-01C Black Slim SATA </description>
+      </offer>
+      <offer id="197596" type="vendor.model" available="true">
+        <price>509.6</price>
+        <wprice>491.4</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60259680</categoryId>
+        <typePrefix>ПЕРСОНАЛЬНЫЕ КОМПЬЮТЕРЫ DESTEN eVolution</typePrefix>
+        <vendor>DESTEN</vendor>
+        <model>Моноблок DESTEN eVolution g618 18,5" i3-3220/2Гб/500Гб HDD/DVD+-RW/Wi-Fi/no OS</model>
+        <description>Процессор Intel LGA1155 Core i3-3220 (3.3/3Mb) (SR0RG) OEM 
+Платформа GB-AEBN-SI, Black,18.5" , Intel® H61 Express Chipsets, SO-DIMM DDR3 
+Модуль памяти DDR3 2Gb (PC3-10600) 1333MHz SO-DIMM Kingston (KVR1333D3S8S9/2G) 
+Жесткий диск 500ГБ Seagate ST500DM002 7200об./мин., 16МБ (SATA III) </description>
+      </offer>
+      <offer id="197615" type="vendor.model" available="true">
+        <price>577.92</price>
+        <wprice>557.28</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60259680</categoryId>
+        <typePrefix>ПЕРСОНАЛЬНЫЕ КОМПЬЮТЕРЫ DESTEN eVolution</typePrefix>
+        <vendor>DESTEN</vendor>
+        <model>Моноблок DESTEN eVolution g618 18,5" i5-3330/2Гб/500Гб HDD/DVD+-RW/Wi-Fi/no OS</model>
+        <description>Процессор Intel "Core i5-3330" (3.00ГГц, 4x256КБ+6МБ, EM64T, GPU) Socket1155 
+Платформа GB-AEBN-SI, Black,18.5" , Intel® H61 Express Chipsets, SO-DIMM DDR3 
+Модуль памяти DDR3 2Gb (PC3-10600) 1333MHz SO-DIMM Kingston (KVR1333D3S8S9/2G) 
+Жесткий диск 500ГБ Seagate ST500DM002 7200об./мин., 16МБ (SATA III) </description>
+      </offer>
+      <offer id="197597" type="vendor.model" available="true">
+        <price>639.52</price>
+        <wprice>616.68</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60259680</categoryId>
+        <typePrefix>ПЕРСОНАЛЬНЫЕ КОМПЬЮТЕРЫ DESTEN eVolution</typePrefix>
+        <vendor>DESTEN</vendor>
+        <model>Моноблок DESTEN eVolution g621 21,5" i3-3220/2Гб/500Гб HDD/DVD+-RW/Wi-Fi/no OS</model>
+        <description>Процессор Intel LGA1155 Core i3-3220 (3.3/3Mb) (SR0RG) OEM 
+Платформа Gigabyte GB-AEDNK-SI Black, 21.5" (6BAEDNKMS-SI-2M07) 
+Модуль памяти DDR3 2Gb (PC3-10600) 1333MHz SO-DIMM Kingston (KVR1333D3S8S9/2G) 
+Жесткий диск 500ГБ Seagate ST500DM002 7200об./мин., 16МБ (SATA III) 
+Привод LiteON DVD±R/RW DS-8A9SH-01C Black Slim SATA 
+Карта Gigabyte AW-NE139H WiFi Module IEEE 802.11 b/g/n Half Size Mini card  </description>
+      </offer>
+      <offer id="197617" type="vendor.model" available="true">
+        <price>707.84</price>
+        <wprice>682.56</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60259680</categoryId>
+        <typePrefix>ПЕРСОНАЛЬНЫЕ КОМПЬЮТЕРЫ DESTEN eVolution</typePrefix>
+        <vendor>DESTEN</vendor>
+        <model>Моноблок DESTEN eVolution g621 21,5" i5-3330/2Гб/500Гб HDD/DVD+-RW/Wi-Fi/no OS</model>
+        <description>Процессор Intel "Core i5-3330" (3.00ГГц, 4x256КБ+6МБ, EM64T, GPU) Socket1155 
+Платформа Gigabyte GB-AEDNK-SI Black, 21.5" (6BAEDNKMS-SI-2M07) 
+Модуль памяти DDR3 2Gb (PC3-10600) 1333MHz SO-DIMM Kingston (KVR1333D3S8S9/2G) 
+Жесткий диск 500ГБ Seagate ST500DM002 7200об./мин., 16МБ (SATA III) 
+Привод LiteON DVD±R/RW DS-8A9SH-01C Black Slim SATA 
+Карта Gigabyte AW-NE139H WiFi Module IEEE 802.11 b/g/n Half Size Mini card  </description>
+      </offer>
+      <offer id="197598" type="vendor.model" available="true">
+        <price>734.72</price>
+        <wprice>708.48</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60259680</categoryId>
+        <typePrefix>ПЕРСОНАЛЬНЫЕ КОМПЬЮТЕРЫ DESTEN eVolution</typePrefix>
+        <vendor>DESTEN</vendor>
+        <model>Моноблок DESTEN eVolution g624 23,6" i3-3220/2Гб/500Гб HDD/DVD+-RW/Wi-Fi/no OS</model>
+        <description>Процессор Intel LGA1155 Core i3-3220 (3.3/3Mb) (SR0RG) OEM 
+Платформа Gigabyte GB-AEBN-24" Full HD LED, H61, S1155 (6BAEGTNMR-SI-2017) 
+Модуль памяти DDR3 2Gb (PC3-10600) 1333MHz SO-DIMM Kingston (KVR1333D3S8S9/2G) 
+Жесткий диск 500ГБ Seagate ST500DM002 7200об./мин., 16МБ (SATA III) </description>
+      </offer>
+      <offer id="197619" type="vendor.model" available="true">
+        <price>803.04</price>
+        <wprice>774.36</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60259680</categoryId>
+        <typePrefix>ПЕРСОНАЛЬНЫЕ КОМПЬЮТЕРЫ DESTEN eVolution</typePrefix>
+        <vendor>DESTEN</vendor>
+        <model>Моноблок DESTEN eVolution g624 23,6" i5-3330/2Гб/500Гб HDD/DVD+-RW/Wi-Fi/no OS</model>
+        <description>Процессор Intel "Core i5-3330" (3.00ГГц, 4x256КБ+6МБ, EM64T, GPU) Socket1155 
+Платформа Gigabyte GB-AEBN-24" Full HD LED, H61, S1155 (6BAEGTNMR-SI-2017) 
+Модуль памяти DDR3 2Gb (PC3-10600) 1333MHz SO-DIMM Kingston (KVR1333D3S8S9/2G) 
+Жесткий диск 500ГБ Seagate ST500DM002 7200об./мин., 16МБ (SATA III) </description>
+      </offer>
+      <offer id="197599" type="vendor.model" available="true">
+        <price>652.96</price>
+        <wprice>629.64</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60259680</categoryId>
+        <typePrefix>ПЕРСОНАЛЬНЫЕ КОМПЬЮТЕРЫ DESTEN eVolution</typePrefix>
+        <vendor>DESTEN</vendor>
+        <model>Моноблок DESTEN eVolution h623 23,6" i3-3220/2Гб/500Гб HDD/DVD+-RW/Wi-Fi/no OS</model>
+        <description>Процессор Intel LGA1155 Core i3-3220 (3.3/3Mb) (SR0RG) OEM 
+Платформа ALH236SB 
+Модуль памяти DDR3 2Gb (PC3-10600) 1333MHz SO-DIMM Kingston (KVR1333D3S8S9/2G) 
+Жесткий диск 500ГБ Seagate ST500DM002 7200об./мин., 16МБ (SATA III) </description>
+      </offer>
+      <offer id="197621" type="vendor.model" available="true">
+        <price>721.28</price>
+        <wprice>695.52</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60259680</categoryId>
+        <typePrefix>ПЕРСОНАЛЬНЫЕ КОМПЬЮТЕРЫ DESTEN eVolution</typePrefix>
+        <vendor>DESTEN</vendor>
+        <model>Моноблок DESTEN eVolution h623 23,6" i5-3330/2Гб/500Гб HDD/DVD+-RW/Wi-Fi/no OS</model>
+        <description>Процессор Intel "Core i5-3330" (3.00ГГц, 4x256КБ+6МБ, EM64T, GPU) Socket1155 
+Платформа ALH236SB 
+Модуль памяти DDR3 2Gb (PC3-10600) 1333MHz SO-DIMM Kingston (KVR1333D3S8S9/2G) 
+Жесткий диск 500ГБ Seagate ST500DM002 7200об./мин., 16МБ (SATA III) </description>
+      </offer>
+      <offer id="197600" type="vendor.model" available="true">
+        <price>554.4</price>
+        <wprice>534.6</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60259680</categoryId>
+        <typePrefix>ПЕРСОНАЛЬНЫЕ КОМПЬЮТЕРЫ DESTEN eVolution</typePrefix>
+        <vendor>DESTEN</vendor>
+        <model>Моноблок DESTEN eVolution p621 21,5" i3-3220/2Гб/500Гб HDD/DVD+-RW/Wi-Fi/no OS</model>
+        <description>Процессор Intel LGA1155 Core i3-3220 (3.3/3Mb) (SR0RG) OEM 
+Жесткий диск 500ГБ 2.5" WD "Scorpio Blue WD5000BPVT", 5400об/мин., 8МБ (SATA II) 
+Платформа моноблока Pegatron DUBAI L6/H61 LED, NON TOUCH/LED , 21.5" AIO slim 
+Привод LiteON DVD±R/RW DS-8A9SH-01C Black Slim SATA </description>
+      </offer>
+      <offer id="197623" type="vendor.model" available="true">
+        <price>651.84</price>
+        <wprice>628.56</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60259680</categoryId>
+        <typePrefix>ПЕРСОНАЛЬНЫЕ КОМПЬЮТЕРЫ DESTEN eVolution</typePrefix>
+        <vendor>DESTEN</vendor>
+        <model>Моноблок DESTEN eVolution p621 21,5" i5-3330/2Гб/500Гб HDD/DVD+-RW/Wi-Fi/no OS</model>
+        <description>Процессор Intel "Core i5-3330" (3.00ГГц, 4x256КБ+6МБ, EM64T, GPU) Socket1155 
+Платформа моноблока Pegatron DUBAI L6/H61 LED, NON TOUCH/LED , 21.5" AIO slim 
+Модуль памяти DDR3 2Gb (PC3-10600) 1333MHz SO-DIMM Kingston (KVR1333D3S8S9/2G) 
+Жесткий диск 500ГБ 2.5" WD "Scorpio Blue WD5000BPVT", 5400об/мин., 8МБ (SATA II) 
+Привод LiteON DVD±R/RW DS-8A9SH-01C Black Slim SATA </description>
+      </offer>
+      <offer id="197434" type="vendor.model" available="true">
+        <price>540.96</price>
+        <wprice>521.64</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60259680</categoryId>
+        <typePrefix>ПЕРСОНАЛЬНЫЕ КОМПЬЮТЕРЫ DESTEN eVolution</typePrefix>
+        <vendor>DESTEN</vendor>
+        <model>Моноблок DESTEN eVolution e621 21,5" Cel. G530/2Гб/500Гб HDD/DVD+-RW/Wi-Fi/no OS</model>
+        <description>Процессор Intel Celeron G530 2.40ГГц, 2x256КБ+2МБ, EM64T, GPU OEM 
+Жесткий диск 500ГБ Seagate ST500DM002 7200об./мин., 16МБ (SATA III) 
+Платформа моноблока EliteGroup G11-21ENS6BK-4, 21.5", H61,WLan 
+Модуль памяти DDR3 2Gb (PC3-10600) 1333MHz SO-DIMM Kingston (KVR1333D3S8S9/2G) 
+Привод LiteON DVD±R/RW DS-8A9SH-01C Black Slim SATA </description>
+      </offer>
+      <offer id="197437" type="vendor.model" available="true">
+        <price>623.84</price>
+        <wprice>601.56</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60259680</categoryId>
+        <typePrefix>ПЕРСОНАЛЬНЫЕ КОМПЬЮТЕРЫ DESTEN eVolution</typePrefix>
+        <vendor>DESTEN</vendor>
+        <model>Моноблок DESTEN eVolution e624 23,6" Cel. G530/2Гб/500Гб HDD/DVD+-RW/Wi-Fi/no OS</model>
+        <description>Процессор Intel Celeron G530 2.40ГГц, 2x256КБ+2МБ, EM64T, GPU OEM 
+Платформа моноблока ECS G24-H612NBE-11    23.6"  H61 L6 
+Модуль памяти DDR3 2Gb (PC3-10600) 1333MHz SO-DIMM Kingston (KVR1333D3S8S9/2G) 
+Жесткий диск 500ГБ Seagate ST500DM002 7200об./мин., 16МБ (SATA III) 
+Привод LiteON DVD±R/RW DS-8A9SH-01C Black Slim SATA </description>
+      </offer>
+      <offer id="197440" type="vendor.model" available="true">
+        <price>451.36</price>
+        <wprice>435.24</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60259680</categoryId>
+        <typePrefix>ПЕРСОНАЛЬНЫЕ КОМПЬЮТЕРЫ DESTEN eVolution</typePrefix>
+        <vendor>DESTEN</vendor>
+        <model>Моноблок DESTEN eVolution g618 18,5" Cel. G530/2Гб/500Гб HDD/DVD+-RW/Wi-Fi/no OS</model>
+        <description>Процессор Intel Celeron G530 2.40ГГц, 2x256КБ+2МБ, EM64T, GPU OEM 
+Платформа GB-AEBN-SI, Black,18.5" , Intel® H61 Express Chipsets, SO-DIMM DDR3 
+Жесткий диск 500ГБ Seagate ST500DM002 7200об./мин., 16МБ (SATA III) 
+Модуль памяти DDR3 2Gb (PC3-10600) 1333MHz SO-DIMM Kingston (KVR1333D3S8S9/2G) 
+Привод LiteON DVD±R/RW DS-8A9SH-01C Black Slim SATA </description>
+      </offer>
+      <offer id="197441" type="vendor.model" available="true">
+        <price>561.12</price>
+        <wprice>541.08</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60259680</categoryId>
+        <typePrefix>ПЕРСОНАЛЬНЫЕ КОМПЬЮТЕРЫ DESTEN eVolution</typePrefix>
+        <vendor>DESTEN</vendor>
+        <model>Моноблок DESTEN eVolution g621 21,5" Cel. G530/2Гб/500Гб HDD/DVD+-RW/Wi-Fi/no OS</model>
+        <description>Процессор Intel Celeron G530 2.40ГГц, 2x256КБ+2МБ, EM64T, GPU OEM 
+Привод LiteON DVD±R/RW DS-8A9SH-01C Black Slim SATA 
+Жесткий диск 500ГБ Seagate ST500DM002 7200об./мин., 16МБ (SATA III) 
+Платформа Gigabyte GB-AEDNK-SI Black, 21.5" (6BAEDNKMS-SI-2M07) 
+Модуль памяти DDR3 2Gb (PC3-10600) 1333MHz SO-DIMM Kingston (KVR1333D3S8S9/2G) 
+Карта Gigabyte AW-NE139H WiFi Module IEEE 802.11 b/g/n Half Size Mini card  </description>
+      </offer>
+      <offer id="197442" type="vendor.model" available="true">
+        <price>656.32</price>
+        <wprice>632.88</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60259680</categoryId>
+        <typePrefix>ПЕРСОНАЛЬНЫЕ КОМПЬЮТЕРЫ DESTEN eVolution</typePrefix>
+        <vendor>DESTEN</vendor>
+        <model>Моноблок DESTEN eVolution g624 23,6" Cel. G530/2Гб/500Гб HDD/DVD+-RW/Wi-Fi/no OS</model>
+        <description>Процессор Intel Celeron G530 2.40ГГц, 2x256КБ+2МБ, EM64T, GPU OEM 
+Модуль памяти DDR3 2Gb (PC3-10600) 1333MHz SO-DIMM Kingston (KVR1333D3S8S9/2G) 
+Жесткий диск 500ГБ Seagate ST500DM002 7200об./мин., 16МБ (SATA III) 
+Платформа Gigabyte GB-AEBN-24" Full HD LED, H61, S1155 (6BAEGTNMR-SI-2017) </description>
+      </offer>
+      <offer id="197443" type="vendor.model" available="true">
+        <price>574.56</price>
+        <wprice>554.04</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60259680</categoryId>
+        <typePrefix>ПЕРСОНАЛЬНЫЕ КОМПЬЮТЕРЫ DESTEN eVolution</typePrefix>
+        <vendor>DESTEN</vendor>
+        <model>Моноблок DESTEN eVolution h623 23,6" Cel. G530/2Гб/500Гб HDD/DVD+-RW/Wi-Fi/no OS</model>
+        <description>Процессор Intel Celeron G530 2.40ГГц, 2x256КБ+2МБ, EM64T, GPU OEM 
+Платформа ALH236SB 
+Модуль памяти DDR3 2Gb (PC3-10600) 1333MHz SO-DIMM Kingston (KVR1333D3S8S9/2G) 
+Жесткий диск 500ГБ Seagate ST500DM002 7200об./мин., 16МБ (SATA III) </description>
+      </offer>
+      <offer id="197445" type="vendor.model" available="true">
+        <price>509.6</price>
+        <wprice>491.4</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60259680</categoryId>
+        <typePrefix>ПЕРСОНАЛЬНЫЕ КОМПЬЮТЕРЫ DESTEN eVolution</typePrefix>
+        <vendor>DESTEN</vendor>
+        <model>Моноблок DESTEN eVolution p621 21,5" Cel. G530/2Гб/500Гб HDD/DVD+-RW/Wi-Fi/no OS</model>
+        <description>Процессор Intel Celeron G530 2.40ГГц, 2x256КБ+2МБ, EM64T, GPU OEM 
+Жесткий диск 500ГБ 2.5" WD "Scorpio Blue WD5000BPVT", 5400об/мин., 8МБ (SATA II) 
+Платформа моноблока Pegatron DUBAI L6/H61 LED, NON TOUCH/LED , 21.5" AIO slim 
+Мышь Logitech B110 Optical Mouse, USB, 800dpi, Black, [9 (910-001246) 
+Привод LiteON DVD±R/RW DS-8A9SH-01C Black Slim SATA 
+Модуль памяти DDR3 2Gb (PC3-10600) 1333MHz SO-DIMM Kingston (KVR1333D3S8S9/2G) </description>
+      </offer>
+      <offer id="171999" type="vendor.model" available="true">
+        <price>482.13</price>
+        <wprice>456.75</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60065066</categoryId>
+        <typePrefix>ГРАФИЧЕСКИЕ СТАНЦИИ</typePrefix>
+        <vendor>DESTEN</vendor>
+        <model>Графическая станция DESTEN eXtreme 2D 300</model>
+        <description>Процессор Intel LGA1155 Core i3-2100 (3.1/3Mb) OEM 
+Корпус Mini Tower InWin EMR-019 Black/Silver 350W 2*US (6045889) 
+Материнская плата Biostar H61ML (B3), 2*DDR3, S1155, Intel H61, Micro ATX 
+Жесткий диск 160 Gb ST3160813AS 7200RPM 8MB SATA-2 
+Видеоадаптер PNY Quadro 4 NVS 295 256MB PCIEx (VCQ295NVS-X16-PB) 
+Кулер Igloo 1100PWM s1156/15-38 дБа/втулка/Al/90W 4 pin </description>
+      </offer>
+      <offer id="172005" type="vendor.model" available="true">
+        <price>581.88</price>
+        <wprice>551.25</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60065066</categoryId>
+        <typePrefix>ГРАФИЧЕСКИЕ СТАНЦИИ</typePrefix>
+        <vendor>DESTEN</vendor>
+        <model>Графическая станция DESTEN eXtreme 3D 300E</model>
+        <description>Процессор Intel LGA1155 Core i5-2300 2.8GHz, 6M, Sandy Bridge OEM 
+Корпус MiniTower InWin EAR016 Black/Silver 450W 2 *USB (6053561) 
+Материнская плата Socket1155 ASUS "P8P67 LE" rev.3.0 (iP67, 4xDDR3, SAT 
+Жесткий диск 160 Gb ST3160813AS 7200RPM 8MB SATA-2 
+Видеоадаптер Nvidia Quadro FX 350 128MB PCIE DVI (33000054) 
+Кулер Igloo 1100PWM s1156/15-38 дБа/втулка/Al/90W 4 pin </description>
+      </offer>
+      <offer id="172006" type="vendor.model" available="true">
+        <price>2149.38</price>
+        <wprice>2036.25</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60065066</categoryId>
+        <typePrefix>ГРАФИЧЕСКИЕ СТАНЦИИ</typePrefix>
+        <vendor>DESTEN</vendor>
+        <model>Графическая станция DESTEN eXtreme 3D 300H</model>
+        <description>Процессор Intel Xeon QC 2000/4.8GT/4M S1366 OEM E5504 AT80602000801AA S 80W LBF9 
+Корпус Intel SC5650WS 1000W (SC) 
+Материнская плата Intel S5520SCR (SC5600/5650) 
+Модуль памяти DDR-RAM3 2GB 1333MHz kingston KVR1333D3D8R9S/2G ECC Reg, DR x8 TS - 2 
+Жесткий диск SATA2 500Gb Seagate ST3500514NS (Const) 7200RPM 32MB 
+Видеоадаптер PNY Quadro 2000 1GB PCIE 2xDP DVI b (VCQ2000-BLK-1) 
+Радиатор S1366 Intel® Thermal Solution STS100C (130W) passive/active (BXSTS100C) 
+Привод DVD±R/RW Nec AD-7263S-0B Black, SATA, OEM {20}  
+Кабель питания PC 1,8 м (AN23-1000) </description>
+      </offer>
+      <offer id="172004" type="vendor.model" available="true">
+        <price>697.06</price>
+        <wprice>660.38</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60065066</categoryId>
+        <typePrefix>ГРАФИЧЕСКИЕ СТАНЦИИ</typePrefix>
+        <vendor>DESTEN</vendor>
+        <model>Графическая станция DESTEN eXtreme 3D 300P</model>
+        <description>Процессор Intel LGA1155 Core i5-2300 2.8GHz, 6M, Sandy Bridge OEM 
+Корпус MiniTower InWin EAR018 Black/Silver 450W 2*USB+ (6053562) 
+Материнская плата Socket1155 Intel "DP67DEB3" (iP67, 4xDDR3, SATA III,  
+Жесткий диск 160 Gb ST3160813AS 7200RPM 8MB SATA-2 
+Видеоадаптер PNY Quadro 600 1GB PCIE DP DL DVI bu (VCQ600-BLK-1) 
+Кулер Igloo 1100PWM s1156/15-38 дБа/втулка/Al+медь/110W 4pin (AD-1100WEPODB0002) </description>
+      </offer>
+      <offer id="171717" type="vendor.model" available="true">
+        <price>1325.25</price>
+        <wprice>1258.85</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60087227</categoryId>
+        <typePrefix>СЕРВЕРЫ</typePrefix>
+        <vendor>DESTEN</vendor>
+        <model>Сервер DESTEN Navigator SX104R</model>
+        <description>Процессор Intel Xeon QC 2400/2.5GT/8M S1156 OEM X3430 BV80605001914AG 95W S LBLJ 
+Платформа Intel SR1695GPRX1AC 1 400W 
+Модуль памяти DDR-RAM3 2GB 1333MHz Kingston KVR1333D3E9S/2G ECC CL9 w/TS 
+Кабель питания PC 1,8 м (AN23-1000) </description>
+      </offer>
+      <offer id="171825" type="vendor.model" available="true">
+        <price>927.44</price>
+        <wprice>880.97</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60087227</categoryId>
+        <typePrefix>СЕРВЕРЫ</typePrefix>
+        <vendor>DESTEN</vendor>
+        <model>Сервер DESTEN Navigator SX102R</model>
+        <description>Процессор Intel Xeon QC 2400/2.5GT/8M S1156 OEM X3430 BV80605001914AG 95W S LBLJ 
+Платформа Intel SR1630GP 350W 
+Модуль памяти DDR-RAM3 2GB 1333MHz Kingston KVR1333D3E9S/2G ECC CL9 w/TS 
+Кабель питания PC 1,8 м (AN23-1000) </description>
+      </offer>
+      <offer id="172816" type="vendor.model" available="true">
+        <price>991.56</price>
+        <wprice>941.88</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60087227</categoryId>
+        <typePrefix>СЕРВЕРЫ</typePrefix>
+        <vendor>DESTEN</vendor>
+        <model>Сервер DESTEN Navigator SX404TBT</model>
+        <description>Процессор Intel Xeon QC 3100/5GT/8M S1155 OEM E3-1220 CM8062300921702S 80W R00F 
+Платформа Intel P4304BTLSHCNR (4UP, 4 SAS/SATA HS, 365W F, MB S1200BTLR, S1155) 
+Модуль памяти DDR-RAM3 2GB 1333MHz Kingston KVR1333D3E9S/2G ECC CL9 w/TS 
+Кабель питания PC 1,8 м (AN23-1000) </description>
+      </offer>
+      <offer id="171898" type="vendor.model" available="true">
+        <price>1289.63</price>
+        <wprice>1225.01</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60087227</categoryId>
+        <typePrefix>СЕРВЕРЫ</typePrefix>
+        <vendor>DESTEN</vendor>
+        <model>Сервер DESTEN Navigator SX312R</model>
+        <description>Процессор Intel Xeon QC 2400/2.5GT/8M S1156 OEM X3430 BV80605001914AG 95W S LBLJ 
+Материнская плата Intel S3420GPV 
+Серверный корпус 3U NR-R316 БП 700Вт 16xHot Swap SAS/SATA (EATX 12x13) 
+Модуль памяти DDR-RAM3 2GB 1333MHz Kingston KVR1333D3E9S/2G ECC CL9 w/TS 
+Кулер Igloo 1100PWM s1156/15-38 дБа/втулка/Al+медь/110W 4pin (AD-1100WEPODB0002) 
+Кабель питания PC 1,8 м (AN23-1000) </description>
+      </offer>
+      <offer id="171897" type="vendor.model" available="true">
+        <price>799.19</price>
+        <wprice>759.14</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60087227</categoryId>
+        <typePrefix>СЕРВЕРЫ</typePrefix>
+        <vendor>DESTEN</vendor>
+        <model>Сервер DESTEN Navigator SX606T</model>
+        <description>Процессор Intel Xeon QC 2400/2.5GT/8M S1156 OEM X3430 BV80605001914AG 95W S LBLJ 
+Материнская плата Intel S3420GPV 
+Модуль памяти DDR-RAM3 2GB 1333MHz Kingston KVR1333D3E9S/2G ECC CL9 w/TS 
+Корпус Intel SC5299UP 400W 
+Кулер Igloo 1100PWM s1156/15-38 дБа/втулка/Al+медь/110W 4pin (AD-1100WEPODB0002) 
+Кронштейн корзины Intel APP3HSDBKIT (for AXX6DRV3GEXP / SC5650) 
+Кабель питания PC 1,8 м (AN23-1000) </description>
+      </offer>
+      <offer id="171896" type="vendor.model" available="true">
+        <price>631.75</price>
+        <wprice>600.1</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60087227</categoryId>
+        <typePrefix>СЕРВЕРЫ</typePrefix>
+        <vendor>DESTEN</vendor>
+        <model>Сервер DESTEN Navigator SX404T</model>
+        <description>Процессор Intel Xeon QC 2400/2.5GT/8M S1156 OEM X3430 BV80605001914AG 95W S LBLJ 
+Материнская плата Intel S3420GPV 
+Корпус BigTower InWin PE-689 Black 500W 2*USB+Fan+Audio+2SATA ATX (6042422) 
+Модуль памяти DDR-RAM3 2GB 1333MHz Kingston KVR1333D3E9S/2G ECC CL9 w/TS 
+Кулер Igloo 1100PWM s1156/15-38 дБа/втулка/Al+медь/110W 4pin (AD-1100WEPODB0002) 
+Кабель питания PC 1,8 м (AN23-1000) </description>
+      </offer>
+      <offer id="171895" type="vendor.model" available="true">
+        <price>603.25</price>
+        <wprice>573.02</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60087227</categoryId>
+        <typePrefix>СЕРВЕРЫ</typePrefix>
+        <vendor>DESTEN</vendor>
+        <model>Сервер DESTEN Navigator SX406R</model>
+        <description>Процессор Intel Xeon QC 2400/2.5GT/8M S1156 OEM X3430 BV80605001914AG 95W S LBLJ 
+Материнская плата Intel S3420GPV 
+Корпус 19" 4U SP500 w/o PSU 
+Модуль памяти DDR-RAM3 2GB 1333MHz Kingston KVR1333D3E9S/2G ECC CL9 w/TS 
+Кабель питания PC 1,8 м (AN23-1000) </description>
+      </offer>
+      <offer id="171894" type="vendor.model" available="true">
+        <price>668.56</price>
+        <wprice>635.06</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60087227</categoryId>
+        <typePrefix>СЕРВЕРЫ</typePrefix>
+        <vendor>DESTEN</vendor>
+        <model>Сервер DESTEN Navigator SX206R</model>
+        <description>Процессор Intel Xeon QC 2400/2.5GT/8M S1156 OEM X3430 BV80605001914AG 95W S LBLJ 
+Материнская плата Intel S3420GPV 
+Серверный корпус 2U NegoRack NR-N2055(255F) 500Вт (ATX, 6 HDD, 550mm, черный) 
+Модуль памяти DDR-RAM3 2GB 1333MHz Kingston KVR1333D3E9S/2G ECC CL9 w/TS 
+Кабель питания PC 1,8 м (AN23-1000) </description>
+      </offer>
+      <offer id="171893" type="vendor.model" available="true">
+        <price>1028.38</price>
+        <wprice>976.85</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60087227</categoryId>
+        <typePrefix>СЕРВЕРЫ</typePrefix>
+        <vendor>DESTEN</vendor>
+        <model>Сервер DESTEN Navigator SX103R</model>
+        <description>Процессор Intel Xeon QC 2400/2.5GT/8M S1156 OEM X3430 BV80605001914AG 95W S LBLJ 
+Платформа Intel SR1630HGP 350W 
+Модуль памяти DDR-RAM3 2GB 1333MHz Kingston KVR1333D3E9S/2G ECC CL9 w/TS 
+Кабель питания PC 1,8 м (AN23-1000) </description>
+      </offer>
+      <offer id="174301" type="vendor.model" available="true">
+        <price>1065.19</price>
+        <wprice>1011.82</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60087227</categoryId>
+        <typePrefix>СЕРВЕРЫ</typePrefix>
+        <vendor>DESTEN</vendor>
+        <model>Сервер DESTEN Navigator SX104RBT</model>
+        <description>Процессор Intel Xeon QC 3100/5GT/8M S1155 OEM E3-1220 CM8062300921702S 80W R00F 
+Платформа Intel R1304BTLSHBN (1U, 4 SAS/SATA HS, 350W FIX, MB S1200BTL, S1155) 
+Привод DVD±R/RW  INT SLIM SAT/BLACK AD-7710H-01 OPTIARC 
+Мышь A4 OP-720 3D black optical USB 
+Направляющие Intel AXXVRAIL (R1200/R1300/R2200/R2300) 
+Кабель питания PC 1,8 м (AN23-1000) </description>
+      </offer>
+      <offer id="64443" type="vendor.model" available="true">
+        <price>15867.38</price>
+        <wprice>15072.34</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60131676</categoryId>
+        <typePrefix>СЕРВЕРЫ</typePrefix>
+        <vendor>DESTEN</vendor>
+        <model>Сервер DESTEN Navigator QI 8160U4</model>
+        <description>Процессор Intel BX805499050 Itanium-2 9050 1.6/400/533/24M Dual Core Box 
+Блок питания Intel ATG1200PS 1200Вт 
+Регулятор напряжения Intel ATGMVR48V - 4 
+Привод Intel ATGDVDROMKIT 
+Платформа Intel SBNMB000 Itanium 2 
+Направляющие Intel ATGRAILKIT 
+Жесткий диск SCSI 36GB Fujitsu MAX3036NC 15000RPM 80pin - 3 
+Батарея Intel AXXRBBU1 BBU (SRCU42X, SRCZCRX) 
+Контроллер SCSI RAID Intel SRCU42X 128Mb (PCI-X) 
+Модуль памяти DDR-RAM 2Gb 333Mhz Kingston KVR333D4R25/2G DR, Ecc Reg, x4 - 12 
+Кабель питания PC 1,8 м (AN23-1000) </description>
+      </offer>
+      <offer id="171812" type="vendor.model" available="true">
+        <price>2231.31</price>
+        <wprice>2119.51</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60137592</categoryId>
+        <typePrefix>СЕРВЕРЫ</typePrefix>
+        <vendor>DESTEN</vendor>
+        <model>Сервер DESTEN Navigator DX212R</model>
+        <description>Процессор Intel Xeon 4C 1600/4.8GT/4M S1366 OEM E5603 AT80614006954AA 80W SLC2F 
+Платформа Intel SR2612URR 1+1 760W 
+Модуль памяти DDR-RAM3 2GB 1333MHz Kingston KVR1333D3E9S/2G ECC CL9 w/TS 
+Модуль RAID Intel AXX4SASMOD (HC, UR,GPLX) 
+Кабель питания PC 1,8 м (AN23-1000) </description>
+      </offer>
+      <offer id="171892" type="vendor.model" available="true">
+        <price>1098.44</price>
+        <wprice>1043.4</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60137592</categoryId>
+        <typePrefix>СЕРВЕРЫ</typePrefix>
+        <vendor>DESTEN</vendor>
+        <model>Сервер DESTEN Navigator DX606T</model>
+        <description>Процессор Intel Xeon 4C 1600/4.8GT/4M S1366 OEM E5603 AT80614006954AA 80W SLC2F 
+Материнская плата Intel S5500BCR (SC5650) 
+Корпус Intel SC5650DP 600W (HC, BC) 
+Модуль памяти DDR-RAM3 2GB 1333MHz Kingston KVR1333D3E9S/2G ECC CL9 w/TS 
+Радиатор S1366 Intel® Thermal Solution STS100A (80W) active (BXSTS100A) - 2 
+Кронштейн корзины Intel APP3HSDBKIT (for AXX6DRV3GEXP / SC5650) 
+Кабель питания PC 1,8 м (AN23-1000) </description>
+      </offer>
+      <offer id="171836" type="vendor.model" available="true">
+        <price>1726.63</price>
+        <wprice>1640.11</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60137592</categoryId>
+        <typePrefix>СЕРВЕРЫ</typePrefix>
+        <vendor>DESTEN</vendor>
+        <model>Сервер DESTEN Navigator DX206R</model>
+        <description>Процессор Intel Xeon 4C 1600/4.8GT/4M S1366 OEM E5603 AT80614006954AA 80W SLC2F 
+Модуль памяти DDR-RAM3 2GB 1333MHz Kingston KVR1333D3E9S/2G ECC CL9 w/TS 
+Платформа Intel SR2600URBRPR 1+0 750W 
+Бекплейн Intel ASR2500SIXDRV (6 disc kit) (SR2500/2600) 
+Направляющие Intel AXXHERAIL2 (SR16xx\26xx) 
+Кабель питания PC 1,8 м (AN23-1000) </description>
+      </offer>
+      <offer id="171885" type="vendor.model" available="true">
+        <price>1686.25</price>
+        <wprice>1601.76</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60137592</categoryId>
+        <typePrefix>СЕРВЕРЫ</typePrefix>
+        <vendor>DESTEN</vendor>
+        <model>Сервер DESTEN Navigator DX208R</model>
+        <description>Процессор Intel Xeon 4C 1600/4.8GT/4M S1366 OEM E5603 AT80614006954AA 80W SLC2F 
+Платформа Intel SR2625URBRPR 1+0 750W 
+Модуль памяти DDR-RAM3 2GB 1333MHz Kingston KVR1333D3E9S/2G ECC CL9 w/TS 
+Направляющие HDD 2,5" Intel FXX25HDDCAR для корзины с горячей заменой - 2 
+Кабель питания PC 1,8 м (AN23-1000) </description>
+      </offer>
+      <offer id="171887" type="vendor.model" available="true">
+        <price>1119.81</price>
+        <wprice>1063.7</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60137592</categoryId>
+        <typePrefix>СЕРВЕРЫ</typePrefix>
+        <vendor>DESTEN</vendor>
+        <model>Сервер DESTEN Navigator DX102R</model>
+        <description>Процессор Intel Xeon 4C 1600/4.8GT/4M S1366 OEM E5603 AT80614006954AA 80W SLC2F 
+Платформа Intel SR1630BCR 400W 
+Модуль памяти DDR-RAM3 2GB 1333MHz Kingston KVR1333D3E9S/2G ECC CL9 w/TS 
+Кабель питания PC 1,8 м (AN23-1000) </description>
+      </offer>
+      <offer id="171888" type="vendor.model" available="true">
+        <price>1276.56</price>
+        <wprice>1212.6</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60137592</categoryId>
+        <typePrefix>СЕРВЕРЫ</typePrefix>
+        <vendor>DESTEN</vendor>
+        <model>Сервер DESTEN Navigator DX103R</model>
+        <description>Процессор Intel Xeon 4C 1600/4.8GT/4M S1366 OEM E5603 AT80614006954AA 80W SLC2F 
+Платформа Intel SR1600URR 600W 
+Модуль памяти DDR-RAM3 2GB 1333MHz Kingston KVR1333D3E9S/2G ECC CL9 w/TS 
+Кабель питания PC 1,8 м (AN23-1000) </description>
+      </offer>
+      <offer id="171889" type="vendor.model" available="true">
+        <price>1238.56</price>
+        <wprice>1176.5</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60137592</categoryId>
+        <typePrefix>СЕРВЕРЫ</typePrefix>
+        <vendor>DESTEN</vendor>
+        <model>Сервер DESTEN Navigator DX104R</model>
+        <description>Процессор Intel Xeon 4C 1600/4.8GT/4M S1366 OEM E5603 AT80614006954AA 80W SLC2F 
+Платформа Intel SR1690WBR 650W 
+Модуль памяти DDR-RAM3 2GB 1333MHz Kingston KVR1333D3E9S/2G ECC CL9 w/TS 
+Кабель питания PC 1,8 м (AN23-1000) </description>
+      </offer>
+      <offer id="171890" type="vendor.model" available="true">
+        <price>1656.56</price>
+        <wprice>1573.56</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60137592</categoryId>
+        <typePrefix>СЕРВЕРЫ</typePrefix>
+        <vendor>DESTEN</vendor>
+        <model>Сервер DESTEN Navigator DX108R</model>
+        <description>Процессор Intel Xeon 4C 1600/4.8GT/4M S1366 OEM E5603 AT80614006954AA 80W SLC2F 
+Платформа Intel SR1625URR 1+0 650W 
+Модуль памяти DDR-RAM3 2GB 1333MHz Kingston KVR1333D3E9S/2G ECC CL9 w/TS 
+Направляющие HDD 2,5" Intel FXX25HDDCAR для корзины с горячей заменой - 2 
+Кабель питания PC 1,8 м (AN23-1000) </description>
+      </offer>
+      <offer id="171891" type="vendor.model" available="true">
+        <price>1191.06</price>
+        <wprice>1131.38</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60137592</categoryId>
+        <typePrefix>СЕРВЕРЫ</typePrefix>
+        <vendor>DESTEN</vendor>
+        <model>Сервер DESTEN Navigator DX510T</model>
+        <description>Процессор Intel Xeon 4C 1600/4.8GT/4M S1366 OEM E5603 AT80614006954AA 80W SLC2F 
+Материнская плата Intel S5500HCVR (SC5600/5650) 
+Корпус Intel SC5600BASE 670W (HC) 
+Модуль памяти DDR-RAM3 2GB 1333MHz Kingston KVR1333D3E9S/2G ECC CL9 w/TS 
+Радиатор S1366 Intel® Thermal Solution STS100A (80W) active (BXSTS100A) - 2 
+Кабель питания PC 1,8 м (AN23-1000) </description>
+      </offer>
+      <offer id="172970" type="vendor.model" available="true">
+        <price>1655.38</price>
+        <wprice>1572.43</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60137592</categoryId>
+        <typePrefix>СЕРВЕРЫ</typePrefix>
+        <vendor>DESTEN</vendor>
+        <model>Сервер DESTEN Navigator DX312R</model>
+        <description>Процессор Intel Xeon 4C 1600/4.8GT/4M S1366 OEM E5603 AT80614006954AA 80W SLC2F 
+Серверный корпус 3U NR-R316 БП 700Вт 16xHot Swap SAS/SATA (EATX 12x13) 
+Материнская плата Intel S5500HCVR (SC5600/5650) 
+Модуль памяти DDR-RAM3 16GB 1066MHz kingston KVR1066D3Q4R7S/16G ECC Reg, QR 
+Кабель питания PC 1,8 м (AN23-1000) </description>
+      </offer>
+      <offer id="187613" type="vendor.model" available="true">
+        <price>727.96</price>
+        <wprice>740.25</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60243100</categoryId>
+        <typePrefix>НОУТБУКИ DESTEN</typePrefix>
+        <vendor>DESTEN</vendor>
+        <model>Ноутбук Ultrabook DESTEN EasyBook X354 14" i5-3317U/4Гб/120SSD/Wi-Fi+BT/Win8</model>
+        <description>Процессор Intel Core i5-3317u 1,7GHz L3 3Mb 
+Платформа Lengda X300V 14" WXGA i5-3317u Wi-fi+BT 
+Модуль памяти DDR3 4Gb (pc-10667) 1333MHz SO-DIMM Kingston (KVR1333D3S9/4G) 
+Накопитель Kingston SSD V+ SATA3 Disk 120G SVP200S37A/120G ADP9,5mm Rtl 
+Чехол для ноутбука Supreme Black 14.1'', черный, Attack (A-10302)  
+ПО 4HR-00066 Win SL 8 64Bit Russian 1pk DSP OEI Region-EM DVD </description>
+      </offer>
+      <offer id="184841" type="vendor.model" available="true">
+        <price>638.96</price>
+        <wprice>655.88</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60243100</categoryId>
+        <typePrefix>НОУТБУКИ DESTEN</typePrefix>
+        <vendor>DESTEN</vendor>
+        <model>Ноутбук Ultrabook DESTEN EasyBook X354 14" i5-3317U/4Гб/120SSD/Wi-Fi+BT/Без ОС</model>
+        <description>Процессор Intel Core i5-3317u 1,7GHz L3 3Mb 
+Платформа Lengda X300V 14" WXGA i5-3317u Wi-fi+BT 
+Модуль памяти DDR3 4Gb (pc-10667) 1333MHz SO-DIMM Kingston (KVR1333D3S9/4G) 
+Накопитель Kingston SSD V+ SATA3 Disk 120G SVP200S37A/120G ADP9,5mm Rtl 
+Чехол для ноутбука Supreme Black 14.1'', черный, Attack (A-10302)  </description>
+      </offer>
+      <offer id="184842" type="vendor.model" available="true">
+        <price>724.54</price>
+        <wprice>749.25</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60243100</categoryId>
+        <typePrefix>НОУТБУКИ DESTEN</typePrefix>
+        <vendor>DESTEN</vendor>
+        <model>Ноутбук Ultrabook DESTEN EasyBook X354 14" i5-3317U/4Гб/240SSD/Wi-Fi+BT/Без ОС</model>
+        <description>Процессор Intel Core i5-3317u 1,7GHz L3 3Mb 
+Платформа Lengda X300V 14" WXGA i5-3317u Wi-fi+BT 
+Модуль памяти DDR3 4Gb (pc-10667) 1333MHz SO-DIMM Kingston (KVR1333D3S9/4G) 
+Накопитель Kingston SSD V+ SATA3 Disk 240G SVP200S37A/240G Adp 9,5m Rtl 
+Чехол для ноутбука Supreme Black 14.1'', черный, Attack (A-10302)  </description>
+      </offer>
+      <offer id="184860" type="vendor.model" available="true">
+        <price>710.84</price>
+        <wprice>742.5</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60243100</categoryId>
+        <typePrefix>НОУТБУКИ DESTEN</typePrefix>
+        <vendor>DESTEN</vendor>
+        <model>Ноутбук Ultrabook DESTEN EasyBook X354 14" i5-3317U/4Гб/120SSD/Wi-Fi+BT/Win7 HB</model>
+        <description>Процессор Intel Core i5-3317u 1,7GHz L3 3Mb 
+ПО F2C-00886 Win Home Basic 7 SP1 64-bit Russian Single package DSP OEI DVD 
+Платформа Lengda X300V 14" WXGA i5-3317u Wi-fi+BT 
+Модуль памяти DDR3 4Gb (pc-10667) 1333MHz SO-DIMM Kingston (KVR1333D3S9/4G) 
+Накопитель Kingston SSD V+ SATA3 Disk 120G SVP200S37A/120G ADP9,5mm Rtl 
+Чехол для ноутбука Supreme Black 14.1'', черный, Attack (A-10302)  </description>
+      </offer>
+      <offer id="184863" type="vendor.model" available="true">
+        <price>746.21</price>
+        <wprice>766.13</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60243100</categoryId>
+        <typePrefix>НОУТБУКИ DESTEN</typePrefix>
+        <vendor>DESTEN</vendor>
+        <model>Ноутбук Ultrabook DESTEN EasyBook X354 14" i5-3317U/4Гб/120SSD/Wi-Fi+BT/Win7 HP</model>
+        <description>Процессор Intel Core i5-3317u 1,7GHz L3 3Mb 
+Платформа Lengda X300V 14" WXGA i5-3317u Wi-fi+BT 
+Модуль памяти DDR3 4Gb (pc-10667) 1333MHz SO-DIMM Kingston (KVR1333D3S9/4G) 
+Накопитель Kingston SSD V+ SATA3 Disk 120G SVP200S37A/120G ADP9,5mm Rtl 
+ПО GFC-02091 Win Home Prem 7 64-bit SP1 Russian Single package DSP OEI DVD 
+Чехол для ноутбука Supreme Black 14.1'', черный, Attack (A-10302)  </description>
+      </offer>
+      <offer id="184865" type="vendor.model" available="true">
+        <price>796.42</price>
+        <wprice>835.88</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60243100</categoryId>
+        <typePrefix>НОУТБУКИ DESTEN</typePrefix>
+        <vendor>DESTEN</vendor>
+        <model>Ноутбук Ultrabook DESTEN EasyBook X354 14" i5-3317U/4Гб/240SSD/Wi-Fi+BT/Win7 HB</model>
+        <description>Процессор Intel Core i5-3317u 1,7GHz L3 3Mb 
+Платформа Lengda X300V 14" WXGA i5-3317u Wi-fi+BT 
+Модуль памяти DDR3 4Gb (pc-10667) 1333MHz SO-DIMM Kingston (KVR1333D3S9/4G) 
+Накопитель Kingston SSD V+ SATA3 Disk 240G SVP200S37A/240G Adp 9,5m Rtl 
+ПО F2C-00886 Win Home Basic 7 SP1 64-bit Russian Single package DSP OEI DVD 
+Чехол для ноутбука Supreme Black 14.1'', черный, Attack (A-10302)  </description>
+      </offer>
+      <offer id="184866" type="vendor.model" available="true">
+        <price>830.65</price>
+        <wprice>859.5</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60243100</categoryId>
+        <typePrefix>НОУТБУКИ DESTEN</typePrefix>
+        <vendor>DESTEN</vendor>
+        <model>Ноутбук Ultrabook DESTEN EasyBook X354 14" i5-3317U/4Гб/240SSD/Wi-Fi+BT/Win7 HP</model>
+        <description>Процессор Intel Core i5-3317u 1,7GHz L3 3Mb 
+Платформа Lengda X300V 14" WXGA i5-3317u Wi-fi+BT 
+Модуль памяти DDR3 4Gb (pc-10667) 1333MHz SO-DIMM Kingston (KVR1333D3S9/4G) 
+Накопитель Kingston SSD V+ SATA3 Disk 240G SVP200S37A/240G Adp 9,5m Rtl 
+ПО GFC-02091 Win Home Prem 7 64-bit SP1 Russian Single package DSP OEI DVD 
+Чехол для ноутбука Supreme Black 14.1'', черный, Attack (A-10302)  </description>
+      </offer>
+	  <offer id="195757" type="vendor.model" available="true">
+        <price>145.6</price>
+        <wprice>141.4</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60211382</categoryId>
+        <typePrefix>задан(а)</typePrefix>
+        <vendor>Задай "фирму"</vendor>
+        <model>Опция ThinkPad Tablet 2 Bluetooth Keyboard with Stand (0B47288)</model>
+        <description>Опция ThinkPad Tablet 2 Bluetooth Keyboard with Stand (0B47288)</description>
+      </offer>
+      <offer id="185274" type="vendor.model" available="true">
+        <price>777.65</price>
+        <wprice>755.22</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60211382</categoryId>
+        <typePrefix>задан(а)</typePrefix>
+        <vendor>Задай "фирму"</vendor>
+        <model>ПК Lenovo ThinkCentre M72e Tiny IVB i5-3470T 4Gb 2.5"/750G/5400/SATA Intel HD DVD-RW Chassis Intrusion Switch Win7 Pro 64 3/3/3 on-site(MTM 3264H6G) (RC9H6RU)</model>
+        <description>ПК Lenovo ThinkCentre M72e Tiny IVB i5-3470T 4Gb 2.5"/750G/5400/SATA Intel HD DVD-RW Chassis Intrusion Switch Win7 Pro 64 3/3/3 on-site(MTM 3264H6G) (RC9H6RU)</description>
+      </offer>
+      <offer id="198036" type="vendor.model" available="true">
+        <price>642.1</price>
+        <wprice>623.57</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60211382</categoryId>
+        <typePrefix>задан(а)</typePrefix>
+        <vendor>Задай "фирму"</vendor>
+        <model>ПК Lenovo ThinkCentre M72e Tiny i3-3220T 4Gb 2.5"/500G/5400/SATA Intel HD DVD-RW Chassis Intrusion Switch Win7 Pro64 preload+Win8 Pro64 RDVD 3/3/3 on-site(repl RC9G9RU)(MTM 3264Y8G) (RC9Y8RU)</model>
+        <description>ПК Lenovo ThinkCentre M72e Tiny i3-3220T 4Gb 2.5"/500G/5400/SATA Intel HD DVD-RW Chassis Intrusion Switch Win7 Pro64 preload+Win8 Pro64 RDVD 3/3/3 on-site(repl RC9G9RU)(MTM 3264Y8G) (RC9Y8RU)</description>
+      </offer>
+      <offer id="187212" type="vendor.model" available="true">
+        <price>758.16</price>
+        <wprice>736.29</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60211382</categoryId>
+        <typePrefix>задан(а)</typePrefix>
+        <vendor>Задай "фирму"</vendor>
+        <model>ПК Lenovo ThinkCentre M72e TWR IVB i5-3550 4Gb 500Gb Intel HD DVD-RW Win7 Prof 64 3/3/3 on-site(MTM 3597B9G) (RD2B9RU)</model>
+        <description>ПК Lenovo ThinkCentre M72e TWR IVB i5-3550 4Gb 500Gb Intel HD DVD-RW Win7 Prof 64 3/3/3 on-site(MTM 3597B9G) (RD2B9RU)</description>
+      </offer>
+      <offer id="187210" type="vendor.model" available="true">
+        <price>728.73</price>
+        <wprice>707.71</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60211382</categoryId>
+        <typePrefix>задан(а)</typePrefix>
+        <vendor>Задай "фирму"</vendor>
+        <model>ПК Lenovo ThinkCentre M82 SFF IVB i3-3220 4Gb 500Gb Intel HD DVD-RW Win7 Pro64 preload+Win8 Pro64 RDVD/licence 3/3/3 on-site (replace RBJB8RU)(MTM 2756N1G) (RBJN1RU)</model>
+        <description>ПК Lenovo ThinkCentre M82 SFF IVB i3-3220 4Gb 500Gb Intel HD DVD-RW Win7 Pro64 preload+Win8 Pro64 RDVD/licence 3/3/3 on-site (replace RBJB8RU)(MTM 2756N1G) (RBJN1RU)</description>
+      </offer>
+      <offer id="185264" type="vendor.model" available="true">
+        <price>728.73</price>
+        <wprice>707.71</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60211382</categoryId>
+        <typePrefix>задан(а)</typePrefix>
+        <vendor>Задай "фирму"</vendor>
+        <model>ПК Lenovo ThinkCentre M82 TWR i3-2130 4Gb 500Gb Intel HD DVD-RW Win7 Pro 64 3/3/3 on-site (MTM 2697B6G) (RBEB6RU)</model>
+        <description>ПК Lenovo ThinkCentre M82 TWR i3-2130 4Gb 500Gb Intel HD DVD-RW Win7 Pro 64 3/3/3 on-site (MTM 2697B6G) (RBEB6RU)</description>
+      </offer>
+      <offer id="187190" type="vendor.model" available="true">
+        <price>805.17</price>
+        <wprice>781.94</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60211382</categoryId>
+        <typePrefix>задан(а)</typePrefix>
+        <vendor>Задай "фирму"</vendor>
+        <model>ПК Lenovo ThinkCentre Edge 72z All-In-One 20” i3-3220 4GB 500Gb Intel HD DVD±RW Win8 Pro 64 1/1 carry-in (MTM 3571J9G) (RCKJ9RU)</model>
+        <description>ПК Lenovo ThinkCentre Edge 72z All-In-One 20” i3-3220 4GB 500Gb Intel HD DVD±RW Win8 Pro 64 1/1 carry-in (MTM 3571J9G) (RCKJ9RU)</description>
+      </offer>
+      <offer id="185250" type="vendor.model" available="true">
+        <price>576.78</price>
+        <wprice>560.15</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60211382</categoryId>
+        <typePrefix>задан(а)</typePrefix>
+        <vendor>Задай "фирму"</vendor>
+        <model>ПК Lenovo ThinkCentre Edge 72z All-In-One 20” G530 2GB 500Gb Intel HD DVD±RW Win7 Pro 64 1/1 carry-in (replace SAKA4RU,VDDS5RU)(MTM 3571C4G) (RCKC4RU)</model>
+        <description>ПК Lenovo ThinkCentre Edge 72z All-In-One 20” G530 2GB 500Gb Intel HD DVD±RW Win7 Pro 64 1/1 carry-in (replace SAKA4RU,VDDS5RU)(MTM 3571C4G) (RCKC4RU)</description>
+      </offer>
+      <offer id="187194" type="vendor.model" available="true">
+        <price>945.82</price>
+        <wprice>918.53</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60211382</categoryId>
+        <typePrefix>задан(а)</typePrefix>
+        <vendor>Задай "фирму"</vendor>
+        <model>ПК Lenovo ThinkCentre Edge 72z All-In-One 20” i5-3470 4GB 500Gb Intel HD DVD±RW Win8 Pro 64 1/1 carry-in (MTM 3571F5G) (RCKF5RU)</model>
+        <description>ПК Lenovo ThinkCentre Edge 72z All-In-One 20” i5-3470 4GB 500Gb Intel HD DVD±RW Win8 Pro 64 1/1 carry-in (MTM 3571F5G) (RCKF5RU)</description>
+      </offer>
+      <offer id="187185" type="vendor.model" available="true">
+        <price>712.86</price>
+        <wprice>692.29</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60211382</categoryId>
+        <typePrefix>задан(а)</typePrefix>
+        <vendor>Задай "фирму"</vendor>
+        <model>ПК Lenovo ThinkCentre Edge 72z All-In-One 20” G645 4GB 500Gb Intel HD DVD±RW Win8 Pro 64 1/1 carry-in (MTM 3571JFG) (RCKJFRU)</model>
+        <description>ПК Lenovo ThinkCentre Edge 72z All-In-One 20” G645 4GB 500Gb Intel HD DVD±RW Win8 Pro 64 1/1 carry-in (MTM 3571JFG) (RCKJFRU)</description>
+      </offer>
+      <offer id="187180" type="vendor.model" available="true">
+        <price>611.52</price>
+        <wprice>593.88</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60211382</categoryId>
+        <typePrefix>задан(а)</typePrefix>
+        <vendor>Задай "фирму"</vendor>
+        <model>ПК Lenovo ThinkCentre Edge 72z All-In-One 20” G870 4GB 500Gb Intel HD DVD±RW DOS 1/1 carry-in (MTM 3571K8G) (RCKK8RU)</model>
+        <description>ПК Lenovo ThinkCentre Edge 72z All-In-One 20” G870 4GB 500Gb Intel HD DVD±RW DOS 1/1 carry-in (MTM 3571K8G) (RCKK8RU)</description>
+      </offer>
+      <offer id="185254" type="vendor.model" available="true">
+        <price>958.36</price>
+        <wprice>930.72</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60211382</categoryId>
+        <typePrefix>задан(а)</typePrefix>
+        <vendor>Задай "фирму"</vendor>
+        <model>ПК Lenovo ThinkCentre Edge 72z All-In-One 20” IVB i5-3470 4GB 500Gb Intel HD DVD±RW Cardreader Win7 Pro 64 1/1 carry-in (replace SAKA1RU)(MTM 3571B5G) (RCKB5RU)</model>
+        <description>ПК Lenovo ThinkCentre Edge 72z All-In-One 20” IVB i5-3470 4GB 500Gb Intel HD DVD±RW Cardreader Win7 Pro 64 1/1 carry-in (replace SAKA1RU)(MTM 3571B5G) (RCKB5RU)</description>
+      </offer>
+      <offer id="187181" type="vendor.model" available="true">
+        <price>520</price>
+        <wprice>505</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60211382</categoryId>
+        <typePrefix>задан(а)</typePrefix>
+        <vendor>Задай "фирму"</vendor>
+        <model>ПК Lenovo ThinkCentre Edge 72 SFF i3-2130 4GB 500Gb Intel HD DVD±RW Intel HD Win7 Pro64 preload+Win8 Pro64 RDVD/licence 1/1 carry-in(replace RCGB2RU)(MTM 3496BQG) (RCGBQRU)</model>
+        <description>ПК Lenovo ThinkCentre Edge 72 SFF i3-2130 4GB 500Gb Intel HD DVD±RW Intel HD Win7 Pro64 preload+Win8 Pro64 RDVD/licence 1/1 carry-in(replace RCGB2RU)(MTM 3496BQG) (RCGBQRU)</description>
+      </offer>
+      <offer id="187173" type="vendor.model" available="true">
+        <price>364</price>
+        <wprice>353.5</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60211382</categoryId>
+        <typePrefix>задан(а)</typePrefix>
+        <vendor>Задай "фирму"</vendor>
+        <model>ПК Lenovo ThinkCentre Edge 72 SFF G645 2.9GHz 4GB 500Gb Intel HD DVD±RW Intel HD Win7 Pro64 preload+Win8 Pro64 RDVD/licence 1/1 carry-in(replace RCGCBRU)(MTM 3496BAG) (RCGBARU)</model>
+        <description>ПК Lenovo ThinkCentre Edge 72 SFF G645 2.9GHz 4GB 500Gb Intel HD DVD±RW Intel HD Win7 Pro64 preload+Win8 Pro64 RDVD/licence 1/1 carry-in(replace RCGCBRU)(MTM 3496BAG) (RCGBARU)</description>
+      </offer>
+      <offer id="187167" type="vendor.model" available="true">
+        <price>301.6</price>
+        <wprice>292.9</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60211382</categoryId>
+        <typePrefix>задан(а)</typePrefix>
+        <vendor>Задай "фирму"</vendor>
+        <model>ПК Lenovo ThinkCentre Edge 72 SFF G640 4GB 500Gb Intel HD DVD±RW Intel HD DOS 1/1 carry-in (analog RCGCLRU)(MTM 3496CEG) (RCGCERU)</model>
+        <description>ПК Lenovo ThinkCentre Edge 72 SFF G640 4GB 500Gb Intel HD DVD±RW Intel HD DOS 1/1 carry-in (analog RCGCLRU)(MTM 3496CEG) (RCGCERU)</description>
+      </offer>
+      <offer id="187169" type="vendor.model" available="true">
+        <price>350.06</price>
+        <wprice>339.97</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60211382</categoryId>
+        <typePrefix>задан(а)</typePrefix>
+        <vendor>Задай "фирму"</vendor>
+        <model>ПК Lenovo ThinkCentre Edge 72 SFF IVB G2020 2.9GHz 4GB 500Gb Intel HD DVD±RW DOS 1/1 carry-in(MTM 3496F1G) (RCGF1RU)</model>
+        <description>ПК Lenovo ThinkCentre Edge 72 SFF IVB G2020 2.9GHz 4GB 500Gb Intel HD DVD±RW DOS 1/1 carry-in(MTM 3496F1G) (RCGF1RU)</description>
+      </offer>
+      <offer id="187176" type="vendor.model" available="true">
+        <price>514.8</price>
+        <wprice>499.95</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60211382</categoryId>
+        <typePrefix>задан(а)</typePrefix>
+        <vendor>Задай "фирму"</vendor>
+        <model>ПК Lenovo ThinkCentre Edge 72 SFF IVB G2020 2.9GHz 4GB 500Gb Intel HD DVD±RW Win7 Pro64 preload+Win8 Pro64 RDVD/licence 1/1 carry-in(MTM 3496F8G) (RCGF8RU)</model>
+        <description>ПК Lenovo ThinkCentre Edge 72 SFF IVB G2020 2.9GHz 4GB 500Gb Intel HD DVD±RW Win7 Pro64 preload+Win8 Pro64 RDVD/licence 1/1 carry-in(MTM 3496F8G) (RCGF8RU)</description>
+      </offer>
+      <offer id="198034" type="vendor.model" available="true">
+        <price>523.64</price>
+        <wprice>508.54</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60211382</categoryId>
+        <typePrefix>задан(а)</typePrefix>
+        <vendor>Задай "фирму"</vendor>
+        <model>ПК Lenovo ThinkCentre Edge 72 SFF IVB i5-3330S 4GB 500Gb Intel HD DVD±RW DOS 3/3 carry-in(MTM 349742G) (RCH42RU)</model>
+        <description>ПК Lenovo ThinkCentre Edge 72 SFF IVB i5-3330S 4GB 500Gb Intel HD DVD±RW DOS 3/3 carry-in(MTM 349742G) (RCH42RU)</description>
+      </offer>
+      <offer id="187182" type="vendor.model" available="true">
+        <price>521.56</price>
+        <wprice>506.52</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60211382</categoryId>
+        <typePrefix>задан(а)</typePrefix>
+        <vendor>Задай "фирму"</vendor>
+        <model>ПК Lenovo ThinkCentre Edge 72 MT i3-2130 3.4GHz 4GB 500Gb Intel HD DVD±RW Intel HD Win7 Pro64 preload+Win8 Pro64 RDVD/licence 1/1 carry-in(replace RCDB9RU)(MTM 3485CFG) (RCDCFRU)</model>
+        <description>ПК Lenovo ThinkCentre Edge 72 MT i3-2130 3.4GHz 4GB 500Gb Intel HD DVD±RW Intel HD Win7 Pro64 preload+Win8 Pro64 RDVD/licence 1/1 carry-in(replace RCDB9RU)(MTM 3485CFG) (RCDCFRU)</description>
+      </offer>
+      <offer id="187172" type="vendor.model" available="true">
+        <price>391.04</price>
+        <wprice>379.76</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60211382</categoryId>
+        <typePrefix>задан(а)</typePrefix>
+        <vendor>Задай "фирму"</vendor>
+        <model>ПК Lenovo ThinkCentre Edge 72 MT i3-2130 3.4GHz 4GB 500Gb Intel HD DVD±RW Intel HD DOS 1/1 carry-in (MTM 3485FZG) (RCDFZRU)</model>
+        <description>ПК Lenovo ThinkCentre Edge 72 MT i3-2130 3.4GHz 4GB 500Gb Intel HD DVD±RW Intel HD DOS 1/1 carry-in (MTM 3485FZG) (RCDFZRU)</description>
+      </offer>
+      <offer id="187174" type="vendor.model" available="true">
+        <price>416</price>
+        <wprice>404</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60211382</categoryId>
+        <typePrefix>задан(а)</typePrefix>
+        <vendor>Задай "фирму"</vendor>
+        <model>ПК Lenovo ThinkCentre Edge 72 MT G645 2.9GHz 4GB 500Gb Intel HD DVD±RW Intel HD Win7 Pro64 preload+Win8 Pro64 RDVD/licence 1/1 carry-in(analog RCDB6RU)(MTM 3484CZG) (RCCCZRU)</model>
+        <description>ПК Lenovo ThinkCentre Edge 72 MT G645 2.9GHz 4GB 500Gb Intel HD DVD±RW Intel HD Win7 Pro64 preload+Win8 Pro64 RDVD/licence 1/1 carry-in(analog RCDB6RU)(MTM 3484CZG) (RCCCZRU)</description>
+      </offer>
+      <offer id="187187" type="vendor.model" available="true">
+        <price>738.4</price>
+        <wprice>717.1</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60211382</categoryId>
+        <typePrefix>задан(а)</typePrefix>
+        <vendor>Задай "фирму"</vendor>
+        <model>ПК Lenovo ThinkCentre Edge 72 MT IVB i5-3470S 2.9GHz 4GB 500Gb Intel HD DVD±RW Win7 Pro64 preload+Win8 Pro64 RDVD/licence 1/1 carry-in(replace RCDCLRU)(MTM 3485CLG) (RCDCLRU)</model>
+        <description>ПК Lenovo ThinkCentre Edge 72 MT IVB i5-3470S 2.9GHz 4GB 500Gb Intel HD DVD±RW Win7 Pro64 preload+Win8 Pro64 RDVD/licence 1/1 carry-in(replace RCDCLRU)(MTM 3485CLG) (RCDCLRU)</description>
+      </offer>
+      <offer id="187177" type="vendor.model" available="true">
+        <price>509.6</price>
+        <wprice>494.9</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60211382</categoryId>
+        <typePrefix>задан(а)</typePrefix>
+        <vendor>Задай "фирму"</vendor>
+        <model>ПК Lenovo ThinkCentre Edge 72 MT IVB i5-3470S 2.9GHz 4GB 500Gb Intel HD DVD±RW DOS 1/1 carry-in(MTM 3485D6G) (RCDD6RU)</model>
+        <description>ПК Lenovo ThinkCentre Edge 72 MT IVB i5-3470S 2.9GHz 4GB 500Gb Intel HD DVD±RW DOS 1/1 carry-in(MTM 3485D6G) (RCDD6RU)</description>
+      </offer>
+      <offer id="187170" type="vendor.model" available="true">
+        <price>357.8</price>
+        <wprice>347.48</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60211382</categoryId>
+        <typePrefix>задан(а)</typePrefix>
+        <vendor>Задай "фирму"</vendor>
+        <model>ПК Lenovo ThinkCentre Edge 72 MT IVB G2020 2.9GHz 4GB 500Gb Intel HD DVD±RW DOS 1/1 carry-in(MTM 3485BQG) (RCDBQRU)</model>
+        <description>ПК Lenovo ThinkCentre Edge 72 MT IVB G2020 2.9GHz 4GB 500Gb Intel HD DVD±RW DOS 1/1 carry-in(MTM 3485BQG) (RCDBQRU)</description>
+      </offer>
+      <offer id="187179" type="vendor.model" available="true">
+        <price>499.2</price>
+        <wprice>484.8</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60211382</categoryId>
+        <typePrefix>задан(а)</typePrefix>
+        <vendor>Задай "фирму"</vendor>
+        <model>ПК Lenovo ThinkCentre Edge 72 MT IVB G2020 2.9GHz 4GB 500Gb Intel HD DVD±RW Win7 Pro64 preload+Win8 Pro64 RDVD/licence 1/1 carry-in(MTM 3485BUG) (RCDBURU)</model>
+        <description>ПК Lenovo ThinkCentre Edge 72 MT IVB G2020 2.9GHz 4GB 500Gb Intel HD DVD±RW Win7 Pro64 preload+Win8 Pro64 RDVD/licence 1/1 carry-in(MTM 3485BUG) (RCDBURU)</description>
+      </offer>
+      <offer id="198033" type="vendor.model" available="true">
+        <price>444.6</price>
+        <wprice>431.78</wprice>
+        <currencyId>USD</currencyId>
+        <categoryId>60211382</categoryId>
+        <typePrefix>задан(а)</typePrefix>
+        <vendor>Задай "фирму"</vendor>
+        <model>ПК Lenovo ThinkCentre Edge 72 MT IVB G1610 2.6GHz 4GB 500Gb Intel HD DVD±RW Intel HD Win7 Pro64 preload+Win8 Pro64 RDVD/licence 1/1 carry-in(MTM 3485EAG) (RCDEARU)</model>
+        <description>ПК Lenovo ThinkCentre Edge 72 MT IVB G1610 2.6GHz 4GB 500Gb Intel HD DVD±RW Intel HD Win7 Pro64 preload+Win8 Pro64 RDVD/licence 1/1 carry-in(MTM 3485EAG) (RCDEARU)</description>
+      </offer>
+	    </shop></yml_catalog>
